@@ -15,10 +15,10 @@ export default function Home() {
         
         {/* Hero Section */}
         <section className="text-center max-w-3xl mx-auto py-8 sm:py-12">
-          {/* <div className="inline-flex items-center space-x-2 bg-indigo-50 border border-indigo-100 text-indigo-700 px-3 py-1 rounded-full text-md font-semibold mb-6">
+          <div className="inline-flex items-center space-x-2 bg-indigo-50 border border-indigo-100 text-indigo-700 px-3 py-1 rounded-full text-md font-semibold mb-6">
             <Sparkles className="w-3.5 h-3.5" />
             <span>Curated Tech & Business Perspectives</span>
-          </div> */}
+          </div>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black text-gray-900 tracking-tight leading-none mb-6">
             Explore Stories, Ideas & <span className="text-indigo-600">Insights</span>
           </h1>
