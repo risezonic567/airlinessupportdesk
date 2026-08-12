@@ -1,16 +1,17 @@
-name: Airlines  Live in Server
+name: Airlines Travel Auto Deploy
 
 on:
-  push:
-    branches:
-      - main
+ push:
+   branches:
+     - main
+
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Deploy via SSH
+      - name: ssh deploy
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.SSH_HOST }}
@@ -18,15 +19,15 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
             cd /var/www/airlinessupportdesk
-            
+
             git pull origin main
 
-            docker-compose down
+            docker compose down
 
             docker system prune -f
 
-            docker-compose build --no-cache
+            docker compose build --no-cache
 
-            docker-compose up -d
+            docker compose up -d
 
-            docker ps
+            docker ps -a
