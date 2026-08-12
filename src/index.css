@@ -3,12 +3,11 @@
 @tailwind components
 @tailwind utilities;
 
-/* Smooth scrolling */
+
 html {
   scroll-behavior: smooth;
 }
 
-/* Custom scrollbar hiding utility */
 @layer utilities {
   .scrollbar-none::-webkit-scrollbar {
     display: none;
