@@ -1,0 +1,12 @@
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: airlinessupportdesk
+
+    ports:
+      - "6100:80"
+
+    restart: unless-stopped
