@@ -22,6 +22,10 @@ export default function Navbar() {
     { name: "Home", path: "/" },
     { name: "Blog", path: "/blog" },
     { name: "About", path: "/about" },
+    { name: "ContactUs", path: "/contact-us" },
+    {name:""},
+    {name:""}
+
   ];
 
   const activeClass = "text-indigo-600 font-semibold border-b-2 border-indigo-600 pb-1";
@@ -41,7 +45,7 @@ export default function Navbar() {
           </Link>
 
           {/* Desktop Nav Links */}
-          <nav className="hidden md:flex items-center space-x-8">
+          <nav className="hidden md:flex items-center space-x-12">
             {navLinks.map((link) => (
               <NavLink
                 key={link.path}
@@ -55,7 +59,7 @@ export default function Navbar() {
           </nav>
 
           {/* Desktop Search & Actions */}
-          <div className="hidden md:flex items-center space-x-4">
+          {/* <div className="hidden md:flex items-center space-x-4">
             {showSearch ? (
               <form onSubmit={handleSearchSubmit} className="relative flex items-center">
                 <input
@@ -84,7 +88,7 @@ export default function Navbar() {
                 <Search className="w-5 h-5" />
               </button>
             )}
-          </div>
+          </div> */}
 
           {/* Mobile Menu Button */}
           <div className="flex md:hidden items-center space-x-2">
@@ -102,7 +106,7 @@ export default function Navbar() {
       {/* Mobile Menu Dropdown */}
       {isOpen && (
         <div className="md:hidden border-b border-gray-200 bg-white px-4 pt-2 pb-6 space-y-4">
-          <form onSubmit={handleSearchSubmit} className="relative mt-2">
+          {/* <form onSubmit={handleSearchSubmit} className="relative mt-2">
             <input
               type="text"
               placeholder="Search articles..."
@@ -111,7 +115,7 @@ export default function Navbar() {
               className="w-full pl-9 pr-4 py-2 text-sm bg-gray-100 rounded-lg border border-gray-200 focus:outline-none focus:ring-2 focus:ring-indigo-500"
             />
             <Search className="w-4 h-4 text-gray-500 absolute left-3 top-3" />
-          </form>
+          </form> */}
 
           <nav className="flex flex-col space-y-3 pt-2">
             {navLinks.map((link) => (

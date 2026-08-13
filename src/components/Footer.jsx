@@ -33,7 +33,7 @@ export default function Footer() {
           <div>
             <h4 className="text-sm font-semibold text-white uppercase tracking-wider mb-4">Categories</h4>
             <ul className="space-y-2 text-md">
-              <li><Link to="/blog?category=Technology" className="hover:text-white transition-colors">Technology</Link></li>
+              <li><Link to="/blog?category=Travelocity" className="hover:text-white transition-colors">Travelocity</Link></li>
               <li><Link to="/blog?category=AI" className="hover:text-white transition-colors">Artificial Intelligence</Link></li>
               <li><Link to="/blog?category=Business" className="hover:text-white transition-colors">Business</Link></li>
               <li><Link to="/blog?category=Development" className="hover:text-white transition-colors">Development</Link></li>
