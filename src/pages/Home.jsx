@@ -20,7 +20,7 @@ const slides = [
     id: 1,
     image: "/images/blogimages/Booking_customer_service_contact…_2K_202608131155.jpeg",
     tag: "Exclusive Travel & Flight Deals",
-    title: "Fly Smarter with Risezonic Travel",
+    title: "Fly Smarter with Airlines Support Desk",
     subtitle:
       "Find cheap flights, instant booking assistance, hassle-free cancellations, and 24/7 customer support.",
     buttonText: "Explore Flight Guides",
