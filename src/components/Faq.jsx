@@ -33,7 +33,7 @@ const faqData = [
 
 const categories = ["All", "Flights & Booking", "Cancellation & Refunds", "Baggage & Check-In", "Payments & Security", "Support & Assistance"];
 
-export default function FAQ() {
+export default function Faq() {
   const [openIndex, setOpenIndex] = useState(0)
   const [selectedCategory, setSelectedCategory] = useState("All");
 

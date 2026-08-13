@@ -4,7 +4,7 @@ import { blogPosts, categories } from "../data/blog";
 import FeaturedBlog from "../components/FeaturedBlog";
 import BlogCard from "../components/BlogCard";
 import Newsletter from "../components/Newsletter";
-import FAQ from "../components/FAQ";
+import Faq from "../components/Faq";
 import {
   ArrowRight,
   ChevronLeft,
@@ -242,7 +242,7 @@ export default function Home() {
           </div>
         </section>
 
-        <FAQ/>
+        <Faq/>
 
         <Newsletter />
 
