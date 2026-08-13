@@ -12,10 +12,11 @@ import {
   Bookmark,
   FileQuestion
 } from "lucide-react";
+import { Helmet } from "react-helmet-async";
 
 export default function BlogDetails() {
   const { slug } = useParams();
-  
+
   const blogIndex = blogPosts.findIndex((post) => post.slug === slug);
   const blog = blogPosts[blogIndex];
 
@@ -49,68 +50,128 @@ export default function BlogDetails() {
     .slice(0, 3);
 
   return (
-    <article className="min-h-screen bg-white py-10">
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        
-        {/* Back Link */}
-        <Link
-          to="/blog"
-          className="inline-flex items-center text-md font-semibold text-gray-500 hover:text-indigo-600 transition-colors mb-8"
-        >
-          <ArrowLeft className="w-4 h-4 mr-1" />
-          Back to Blog List
-        </Link>
+    <>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>{blog.metatitle}</title>
+        <meta name="description" content={blog.metadescription}/>
+        <link rel="canonical" href={blog.conanical} />
+        <script type="application/ld+json">
+          {
+            `{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Cómo contactar a Airlines Support Desk en España?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Llama al número de atención al cliente en España: <a href=\"tel:+34900680866\">+34 900 680 866</a>. También puedes escribirnos por WhatsApp para asistencia inmediata."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I contact Airlines Support Desk in the USA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Call our USA toll-free number: <a href=\"tel:+18888434146\">+1-888-843-4146</a>. WhatsApp support is also available for urgent help."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change my flight date by phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, call our support desk and request 'flight change'. Agents are available 24/7 in English and Spanish."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I request a refund?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Call <a href=\"tel:+34900680866\">+34 900 680 866</a> (Spain) or <a href=\"tel:+18888434146\">+1-888-843-4146</a> (USA) and ask for 'refund assistance'. WhatsApp support is also available."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is support available in Spanish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we provide bilingual support (English + Español) for both Spain and US customers."
+      }
+    }
+  ]
+}
+          `
+          }
+        </script>
 
-        {/* Header Metadata */}
-        <header className="mb-8">
-          <div className="inline-block bg-indigo-50 text-indigo-700 text-md font-bold px-3 py-1 rounded-full mb-4">
-            {blog.category}
-          </div>
+      </Helmet>
 
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black text-gray-900 tracking-tight leading-tight mb-6">
-            {blog.title}
-          </h1>
+      <article className="min-h-screen bg-white py-10">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
-          <div className="flex flex-wrap items-center justify-between gap-4 py-4 border-y border-gray-100 text-md text-gray-500">
-            <div className="flex items-center space-x-4">
-              <span className="flex items-center font-medium text-gray-800">
-                <User className="w-4 h-4 mr-1 text-indigo-600" />
-                {blog.author}
-              </span>
-              <span className="flex items-center">
-                <Calendar className="w-3.5 h-3.5 mr-1" />
-                {blog.date}
-              </span>
-              <span className="flex items-center">
-                <Clock className="w-3.5 h-3.5 mr-1" />
-                {blog.readingTime}
-              </span>
+          {/* Back Link */}
+          <Link
+            to="/blog"
+            className="inline-flex items-center text-md font-semibold text-gray-500 hover:text-indigo-600 transition-colors mb-8"
+          >
+            <ArrowLeft className="w-4 h-4 mr-1" />
+            Back to Blog List
+          </Link>
+
+          {/* Header Metadata */}
+          <header className="mb-8">
+            <div className="inline-block bg-indigo-50 text-indigo-700 text-md font-bold px-3 py-1 rounded-full mb-4">
+              {blog.category}
             </div>
 
-            <div className="flex items-center space-x-2">
-              <button className="p-2 text-gray-500 hover:text-indigo-600 hover:bg-gray-50 rounded-full transition-colors" title="Share Article">
-                <Share2 className="w-4 h-4" />
-              </button>
-              <button className="p-2 text-gray-500 hover:text-indigo-600 hover:bg-gray-50 rounded-full transition-colors" title="Bookmark">
-                <Bookmark className="w-4 h-4" />
-              </button>
+            <h1 className="text-3xl sm:text-4xl md:text-5xl font-black text-gray-900 tracking-tight leading-tight mb-6">
+              {blog.title}
+            </h1>
+
+            <div className="flex flex-wrap items-center justify-between gap-4 py-4 border-y border-gray-100 text-md text-gray-500">
+              <div className="flex items-center space-x-4">
+                <span className="flex items-center font-medium text-gray-800">
+                  <User className="w-4 h-4 mr-1 text-indigo-600" />
+                  {blog.author}
+                </span>
+                <span className="flex items-center">
+                  <Calendar className="w-3.5 h-3.5 mr-1" />
+                  {blog.date}
+                </span>
+                <span className="flex items-center">
+                  <Clock className="w-3.5 h-3.5 mr-1" />
+                  {blog.readingTime}
+                </span>
+              </div>
+
+              <div className="flex items-center space-x-2">
+                <button className="p-2 text-gray-500 hover:text-indigo-600 hover:bg-gray-50 rounded-full transition-colors" title="Share Article">
+                  <Share2 className="w-4 h-4" />
+                </button>
+                <button className="p-2 text-gray-500 hover:text-indigo-600 hover:bg-gray-50 rounded-full transition-colors" title="Bookmark">
+                  <Bookmark className="w-4 h-4" />
+                </button>
+              </div>
             </div>
+          </header>
+
+          {/* Featured Image */}
+          <div className="rounded-3xl overflow-hidden aspect-[16/9] mb-10 shadow-lg bg-gray-100">
+            <img src={blog.image} alt={blog.title} className="w-full h-full object-cover" />
           </div>
-        </header>
 
-        {/* Featured Image */}
-        <div className="rounded-3xl overflow-hidden aspect-[16/9] mb-10 shadow-lg bg-gray-100">
-          <img src={blog.image} alt={blog.title} className="w-full h-full object-cover" />
-        </div>
+          {/* Content Render Area */}
+          <div
+            className="prose prose-indigo max-w-none text-gray-700 text-base leading-relaxed space-y-6"
+            dangerouslySetInnerHTML={{ __html: blog.content }}
+          />
 
-        {/* Content Render Area */}
-        <div
-          className="prose prose-indigo max-w-none text-gray-700 text-base leading-relaxed space-y-6"
-          dangerouslySetInnerHTML={{ __html: blog.content }}
-        />
-
-        {/* Tags */}
-        {/* <div className="mt-10 pt-6 border-t border-gray-100 flex flex-wrap items-center gap-2">
+          {/* Tags */}
+          {/* <div className="mt-10 pt-6 border-t border-gray-100 flex flex-wrap items-center gap-2">
           <span className="text-md font-semibold text-gray-500 mr-2">Tags:</span>
           {blog.tags.map((tag) => (
             <span
@@ -122,50 +183,51 @@ export default function BlogDetails() {
           ))}
         </div> */}
 
-        {/* Prev / Next Pagination */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-12 pt-8 border-t border-gray-100">
-          {prevBlog ? (
-            <Link
-              to={`/blog/${prevBlog.slug}`}
-              className="p-4 border border-gray-100 rounded-2xl hover:border-indigo-200 hover:shadow-md transition-all flex flex-col group"
-            >
-              <span className="text-md text-gray-500 flex items-center mb-1">
-                <ChevronLeft className="w-3.5 h-3.5 mr-1" /> Previous Post
-              </span>
-              <span className="text-sm font-bold text-gray-800 group-hover:text-indigo-600 line-clamp-1">
-                {prevBlog.title}
-              </span>
-            </Link>
-          ) : <div />}
+          {/* Prev / Next Pagination */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-12 pt-8 border-t border-gray-100">
+            {prevBlog ? (
+              <Link
+                to={`/blog/${prevBlog.slug}`}
+                className="p-4 border border-gray-100 rounded-2xl hover:border-indigo-200 hover:shadow-md transition-all flex flex-col group"
+              >
+                <span className="text-md text-gray-500 flex items-center mb-1">
+                  <ChevronLeft className="w-3.5 h-3.5 mr-1" /> Previous Post
+                </span>
+                <span className="text-sm font-bold text-gray-800 group-hover:text-indigo-600 line-clamp-1">
+                  {prevBlog.title}
+                </span>
+              </Link>
+            ) : <div />}
 
-          {nextBlog && (
-            <Link
-              to={`/blog/${nextBlog.slug}`}
-              className="p-4 border border-gray-100 rounded-2xl hover:border-indigo-200 hover:shadow-md transition-all flex flex-col items-end text-right group ml-auto w-full"
-            >
-              <span className="text-md text-gray-500 flex items-center mb-1">
-                Next Post <ChevronRight className="w-3.5 h-3.5 ml-1" />
-              </span>
-              <span className="text-sm font-bold text-gray-800 group-hover:text-indigo-600 line-clamp-1">
-                {nextBlog.title}
-              </span>
-            </Link>
+            {nextBlog && (
+              <Link
+                to={`/blog/${nextBlog.slug}`}
+                className="p-4 border border-gray-100 rounded-2xl hover:border-indigo-200 hover:shadow-md transition-all flex flex-col items-end text-right group ml-auto w-full"
+              >
+                <span className="text-md text-gray-500 flex items-center mb-1">
+                  Next Post <ChevronRight className="w-3.5 h-3.5 ml-1" />
+                </span>
+                <span className="text-sm font-bold text-gray-800 group-hover:text-indigo-600 line-clamp-1">
+                  {nextBlog.title}
+                </span>
+              </Link>
+            )}
+          </div>
+
+          {/* Related Articles */}
+          {relatedBlogs.length > 0 && (
+            <section className="mt-16 pt-12 border-t border-gray-100">
+              <h2 className="text-2xl font-bold text-gray-900 mb-8">Related Articles</h2>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {relatedBlogs.map((related) => (
+                  <BlogCard key={related.id} blog={related} />
+                ))}
+              </div>
+            </section>
           )}
+
         </div>
-
-        {/* Related Articles */}
-        {relatedBlogs.length > 0 && (
-          <section className="mt-16 pt-12 border-t border-gray-100">
-            <h2 className="text-2xl font-bold text-gray-900 mb-8">Related Articles</h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {relatedBlogs.map((related) => (
-                <BlogCard key={related.id} blog={related} />
-              ))}
-            </div>
-          </section>
-        )}
-
-      </div>
-    </article>
+      </article>
+    </>
   );
 }

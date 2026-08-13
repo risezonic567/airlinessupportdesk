@@ -4,6 +4,7 @@ import { blogPosts, categories } from "../data/blog";
 import FeaturedBlog from "../components/FeaturedBlog";
 import BlogCard from "../components/BlogCard";
 import Newsletter from "../components/Newsletter";
+import FAQ from "../components/FAQ";
 import {
   ArrowRight,
   ChevronLeft,
@@ -19,34 +20,34 @@ const slides = [
   {
     id: 1,
     image: "/images/blogimages/Booking_customer_service_contact…_2K_202608131155.jpeg",
-    tag: "Exclusive Travel & Flight Deals",
+    tag: "24/7 Airline Assistance",
     title: "Fly Smarter with Airlines Support Desk",
     subtitle:
-      "Find cheap flights, instant booking assistance, hassle-free cancellations, and 24/7 customer support.",
-    buttonText: "Explore Flight Guides",
+      "Get instant help with flight bookings, name changes, seat selection, and round-the-clock live phone support.",
+    buttonText: "Get Booking Help",
     link: "/blog?category=Travel",
     badgeIcon: Plane,
   },
   {
     id: 2,
     image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1920&q=80",
-    tag: "Airlines & Airfare Hacks",
-    title: "Unbeatable Offers on Global Airlines",
+    tag: "Flight Cancellations & Refunds",
+    title: "Hassle-Free Airline Ticket Modifications",
     subtitle:
-      "Discover flight search filters, baggage policies, and secret tips to lock in lower fares for your next destination.",
-    buttonText: "View Airline Offers",
+      "Need to change dates or cancel a flight? Explore step-by-step guides and live agent support for instant refund requests.",
+    buttonText: "View Cancellation Rules",
     link: "/blog?category=Travel",
     badgeIcon: Tag,
   },
   {
     id: 3,
-    image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=1920&q=80",
-    tag: "Tech & Architecture Insights",
-    title: "Modern Web Stack & Engineering",
+    image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1920&q=80",
+    tag: "Baggage & Check-In Support",
+    title: "Complete Airline Baggage & Check-in Guides",
     subtitle:
-      "Dive deep into full-stack development, modern UI frameworks, high-performance APIs, and AI integration.",
-    buttonText: "Read Tech Articles",
-    link: "/blog?category=Technology",
+      "Avoid airport surprises. Check airline-specific baggage allowances, fee waivers, and online check-in procedures.",
+    buttonText: "Check Baggage Policies",
+    link: "/blog?category=Travel",
     badgeIcon: Sparkles,
   },
 ];
@@ -57,7 +58,6 @@ export default function Home() {
   const featured = blogPosts.find((post) => post.featured) || blogPosts[0];
   const latestBlogs = blogPosts.slice(0, 6);
 
-  // Auto slide every 5 seconds
   useEffect(() => {
     const timer = setInterval(() => {
       setCurrentSlide((prev) => (prev + 1) % slides.length);
@@ -76,7 +76,6 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-50/50">
       
-      {/* 100vh Full-Width Slider Hero Banner */}
       <section className="relative w-full h-[90vh] min-h-[580px] max-h-[850px] overflow-hidden bg-black">
         {slides.map((slide, index) => {
           const BadgeIcon = slide.badgeIcon;
@@ -121,7 +120,7 @@ export default function Home() {
                   <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-2">
                     <Link
                       to={slide.link}
-                      className="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold rounded-2xl shadow-xl hover:shadow-amber-500/20 transition-all text-sm sm:text-base"
+                      className="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 bg-amber-500  text-slate-950 font-bold rounded-2xl shadow-xl hover:shadow-amber-500/20 transition-all text-sm sm:text-base"
                     >
                       {slide.buttonText}
                       <ArrowRight className="w-5 h-5 ml-2" />
@@ -242,6 +241,8 @@ export default function Home() {
             ))}
           </div>
         </section>
+
+        <FAQ/>
 
         <Newsletter />
 

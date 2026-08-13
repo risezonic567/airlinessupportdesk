@@ -2,6 +2,7 @@ export const blogPosts = [
   {
     id: 1,
     slug: "travelocity-phone-number-Official-customer-service-support-contacts",
+    conanical:"https://www.airlinessupport-desk.com/blog/travelocity-phone-number-Official-customer-service-support-contacts",
     title: "Travelocity Phone Number Official Customer Service Support Contacts",
     metatitle:
       "Travelocity Phone Number: Official Customer Service & Support",
@@ -117,6 +118,7 @@ export const blogPosts = [
   {
     id: 2,
     slug: "travelocity-customer-care-how-to-contact-travelocity-customer-service",
+    conanical:"https://www.airlinessupport-desk.com/blog/travelocity-customer-care-how-to-contact-travelocity-customer-service",
     title: "Travelocity Customer Care: How to Contact Travelocity Customer Service",
     metatitle:
       "Travelocity Customer Service: Contact Customer Support",
@@ -208,6 +210,7 @@ USA: 18888434146
   {
     id: 3,
     slug: "booking-com-cancellation-policy-everything-you-need-to-know-about-cancellations-refunds-and-changes",
+    conanical:"https://www.airlinessupport-desk.com/blog/booking-com-cancellation-policy-everything-you-need-to-know-about-cancellations-refunds-and-changes",
     title: "Booking.com Cancellation Policy: Everything You Need to Know About Cancellations, Refunds, and Changes",
     metatitle:
       "",
@@ -344,6 +347,7 @@ Monitor your payment method for refund updates.<br/>
   {
     id: 4,
     slug: "booking-com-contact-number-customer-service-help-centre-customer-care",
+    conanical:"https://www.airlinessupport-desk.com/blog/booking-com-contact-number-customer-service-help-centre-customer-care",
     title: "Booking.com Contact Number: Customer Service, Help Centre & Customer Care",
     metatitle:
       "",
