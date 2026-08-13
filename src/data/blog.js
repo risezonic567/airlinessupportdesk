@@ -105,6 +105,9 @@ export const blogPosts = [
 
 
         </p>
+
+       
+      
     `,
     category: "Travelocity",
 
