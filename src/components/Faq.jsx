@@ -34,7 +34,7 @@ const faqData = [
 const categories = ["All", "Flights & Booking", "Cancellation & Refunds", "Baggage & Check-In", "Payments & Security", "Support & Assistance"];
 
 export default function FAQ() {
-  const [openIndex, setOpenIndex] = useState(0); // Open first question by default
+  const [openIndex, setOpenIndex] = useState(0)
   const [selectedCategory, setSelectedCategory] = useState("All");
 
   const filteredFaqs =
@@ -92,7 +92,6 @@ export default function FAQ() {
                   </div>
                 </button>
 
-                {/* Animated Body */}
                 {isOpen && (
                   <div className="px-5 pb-5 pt-1 text-sm sm:text-base text-gray-600 leading-relaxed border-t border-gray-100 mt-1">
                     {faq.answer}

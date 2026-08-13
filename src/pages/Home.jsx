@@ -20,12 +20,12 @@ const slides = [
   {
     id: 1,
     image: "/images/blogimages/Booking_customer_service_contact…_2K_202608131155.jpeg",
-    tag: "24/7 Airline Assistance",
+   
     title: "Fly Smarter with Airlines Support Desk",
     subtitle:
       "Get instant help with flight bookings, name changes, seat selection, and round-the-clock live phone support.",
     buttonText: "Get Booking Help",
-    link: "/blog?category=Travel",
+    link: "/blog?category=Travelocity",
     badgeIcon: Plane,
   },
   {
@@ -36,7 +36,7 @@ const slides = [
     subtitle:
       "Need to change dates or cancel a flight? Explore step-by-step guides and live agent support for instant refund requests.",
     buttonText: "View Cancellation Rules",
-    link: "/blog?category=Travel",
+    link: "/blog?category=Travelocity",
     badgeIcon: Tag,
   },
   {
@@ -47,7 +47,7 @@ const slides = [
     subtitle:
       "Avoid airport surprises. Check airline-specific baggage allowances, fee waivers, and online check-in procedures.",
     buttonText: "Check Baggage Policies",
-    link: "/blog?category=Travel",
+    link: "/blog?category=Travelocity",
     badgeIcon: Sparkles,
   },
 ];
