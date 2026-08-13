@@ -36,7 +36,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           
-          {/* Logo */}
+
           <Link to="/" className="flex items-center space-x-2 text-xl font-bold text-gray-900 tracking-tight">
             <div className="p-2 bg-indigo-600 text-white rounded-lg">
               <BookOpen className="w-5 h-5" />
@@ -44,7 +44,7 @@ export default function Navbar() {
             <span>Airlines Support Desk<span className="text-indigo-600">.</span></span>
           </Link>
 
-          {/* Desktop Nav Links */}
+   
           <nav className="hidden md:flex items-center space-x-12">
             {navLinks.map((link) => (
               <NavLink
