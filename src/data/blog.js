@@ -846,21 +846,23 @@ Official Website: airlinessupport-desk.com </p>
      <h2 class="font-semibold text-2x">Escalation of Issues Using Travelocity Customer Service Support </h2>
      <p>In case all other means fail to sort out a difficult situation where there is no compliance from the hotel regarding booking or the airline fails to offer an authentic voucher, it is necessary to understand how one can escalate an issue with Travelocity customer service support.</p>
      <p>Maintain a written record of all the communication. Write the time when you called for help, the name/ID number of the representatives who took the call and the promises they make. In case the phone representative does not resolve your issue, ask politely to be escalated to "Tier 2 Specialist" or "Customer Care Supervisor". The supervisors can issue manual refunds or arrange alternative flights because they have higher financial authorization.</p>
-     <h2>class="font-semibold text-2x">Solving Problems with Travelocity Support </h2>
+     <h2 class="font-semibold text-2x">Solving Problems with Travelocity Support </h2>
      <p>Another frustration that often occurs between the customer and the travel company involves finger pointing between the booking website and the travel company (airlines and hotels).</p>
      <p>In order to get out of this dilemma, one should employ Travelocity support to solve the problem. In case the airlines have agreed to give you back your money, ask them to put the approval in the Global Distribution System (GDS). Once it is registered in the system, the platform’s agents will be able to see it and will process the request immediately.</p>
-     <h2>class="font-semibold text-2x"> Self-Service Gateway: Travelocity Help Center</h2>
+     <h2 class="font-semibold text-2x">Self-Service Gateway: Travelocity Help Center</h2>
      <p>In case of non-emergencies, the centralized self-service gateway is a highly potent mechanism that could help you to completely avoid making a call. It allows you to manage your own booking process.</p>
-      <p>Travelocity Help Center
-   │
-   ├──► Changing or Cancellation of a Trip (Processing changes in flights and cancellations of hotels)
-   ├──► Status of Refunds Tracking (Checking ongoing cash or coupons refund status)
-   └──► Travel Documentation and Vouchers (Accessing codes and travel requirements)
+      <p>Travelocity Help Center<br/>
+   
+   ├──► Changing or Cancellation of a Trip (Processing changes in flights and cancellations of hotels)<br/>
+   ├──► Status of Refunds Tracking (Checking ongoing cash or coupons refund status)<br/>
+   └──► Travel Documentation and Vouchers (Accessing codes and travel requirements)<br/>
    </p>
    <p>Through visiting the Travelocity help center website, one may obtain official bills for corporation expense reports, review check-in procedures for the upcoming cruise, or find out if a delay on your flight has been credited automatically.</p>
    <p>Travelocity Contact Number:(USA):  18888434146
     Official Website: airlinessupport-desk.com
     </p>
+
+    
 
     `,
     category: "Travelocity",
