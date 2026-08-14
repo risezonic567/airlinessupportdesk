@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { NavLink, Link, useNavigate } from "react-router-dom";
-import { Search, Menu, X, BookOpen } from "lucide-react";
+import { Search, Menu, X } from "lucide-react";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -22,35 +22,37 @@ export default function Navbar() {
     { name: "Home", path: "/" },
     { name: "Blog", path: "/blog" },
     { name: "About", path: "/about" },
-    { name: "ContactUs", path: "/contact-us" },
-    {name:""},
-    {name:""},
-
+    { name: "Contact Us", path: "/contact-us" },
   ];
 
-  const activeClass = "text-indigo-600 font-semibold border-b-2 border-indigo-600 pb-1";
-  const inactiveClass = "text-gray-600 hover:text-indigo-600 font-medium transition-colors pb-1";
+  const activeClass =
+    "text-indigo-600 font-semibold border-b-2 border-indigo-600 pb-1";
+  const inactiveClass =
+    "text-gray-600 hover:text-indigo-600 font-medium transition-colors pb-1";
 
   return (
     <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-gray-100 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-20">
+        <div className="flex items-center justify-between h-20 sm:h-24">
           
-
-          <Link to="/" className="flex items-center space-x-2 text-xl font-bold text-gray-900 tracking-tight">
-            <div className="p-2 bg-indigo-600 text-white rounded-lg">
-              <BookOpen className="w-5 h-5" />
-            </div>
-            <span>Airlines Support Desk<span className="text-indigo-600">.</span></span>
+          {/* Logo Section - Scaled to fill internal transparent padding */}
+          <Link to="/" className="flex items-center py-1 overflow-hidden">
+            <img
+              src="/images/ASD Logo.png"
+              alt="Airlines Support Desk"
+              className="h-20 sm:h-24 w-auto object-contain  origin-left"
+            />
           </Link>
 
-   
-          <nav className="hidden md:flex items-center space-x-12">
+          {/* Desktop Navigation */}
+          <nav className="hidden md:flex items-center space-x-10">
             {navLinks.map((link) => (
               <NavLink
                 key={link.path}
                 to={link.path}
-                className={({ isActive }) => (isActive ? activeClass : inactiveClass)}
+                className={({ isActive }) =>
+                  isActive ? activeClass : inactiveClass
+                }
                 end={link.path === "/"}
               >
                 {link.name}
@@ -58,6 +60,7 @@ export default function Navbar() {
             ))}
           </nav>
 
+          {/* Mobile Menu Button */}
           <div className="flex md:hidden items-center space-x-2">
             <button
               onClick={() => setIsOpen(!isOpen)}
@@ -70,19 +73,9 @@ export default function Navbar() {
         </div>
       </div>
 
+      {/* Mobile Drawer */}
       {isOpen && (
         <div className="md:hidden border-b border-gray-200 bg-white px-4 pt-2 pb-6 space-y-4">
-          {/* <form onSubmit={handleSearchSubmit} className="relative mt-2">
-            <input
-              type="text"
-              placeholder="Search articles..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-9 pr-4 py-2 text-sm bg-gray-100 rounded-lg border border-gray-200 focus:outline-none focus:ring-2 focus:ring-indigo-500"
-            />
-            <Search className="w-4 h-4 text-gray-500 absolute left-3 top-3" />
-          </form> */}
-
           <nav className="flex flex-col space-y-3 pt-2">
             {navLinks.map((link) => (
               <NavLink
@@ -91,7 +84,9 @@ export default function Navbar() {
                 onClick={() => setIsOpen(false)}
                 className={({ isActive }) =>
                   `px-3 py-2 rounded-md text-base font-medium ${
-                    isActive ? "bg-indigo-50 text-indigo-600" : "text-gray-700 hover:bg-gray-50"
+                    isActive
+                      ? "bg-indigo-50 text-indigo-600"
+                      : "text-gray-700 hover:bg-gray-50"
                   }`
                 }
                 end={link.path === "/"}

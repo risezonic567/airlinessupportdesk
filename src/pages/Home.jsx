@@ -19,7 +19,7 @@ import {
 const slides = [
   {
     id: 1,
-    image: "/images/blogimages/Booking_customer_service_contact…_2K_202608131155.jpeg",
+    image: "/images/ASD Banner 1.png",
    
     title: "Fly Smarter with Airlines Support Desk",
     subtitle:
@@ -30,7 +30,7 @@ const slides = [
   },
   {
     id: 2,
-    image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1920&q=80",
+    image: "/images/ASD Banner 2.png",
     tag: "Flight Cancellations & Refunds",
     title: "Hassle-Free Airline Ticket Modifications",
     subtitle:
@@ -41,7 +41,7 @@ const slides = [
   },
   {
     id: 3,
-    image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1920&q=80",
+    image: "/images/ASD Banner 3.png",
     tag: "Baggage & Check-In Support",
     title: "Complete Airline Baggage & Check-in Guides",
     subtitle:
@@ -61,7 +61,7 @@ export default function Home() {
   useEffect(() => {
     const timer = setInterval(() => {
       setCurrentSlide((prev) => (prev + 1) % slides.length);
-    }, 5000);
+    }, 3000);
     return () => clearInterval(timer);
   }, []);
 
