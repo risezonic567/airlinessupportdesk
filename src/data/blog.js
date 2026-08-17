@@ -1817,7 +1817,6 @@ Cambiar la reserva puede ser más conveniente que cancelarla si todavía tienes 
 <p>Comprender la <a href="https://help.vueling.com/hc/es/articles/19798817855889-Quiero-cancelar-mi-vuelo" class="text-blue-600 underline"> política de cancelación de Vueling </a> antes de cancelar tu billete puede ayudarte a evitar cargos inesperados y a determinar si cambiar el vuelo o solicitar un reembolso es la mejor opción. Como las condiciones de cancelación y reembolso pueden variar según la reserva, consulta siempre las condiciones de tu reserva individual antes de realizar cualquier acción.
 
 </p>
-<p>Spain : <a href="tel:+34900680866" class="text-blue-600 underline">+34900680866</a></p>
    
      `,
     category: "Travelocity",
