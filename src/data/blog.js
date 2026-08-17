@@ -1371,7 +1371,7 @@ Travel issues may be distressing, but being prepared for reaching out to Travelo
 
     image: "/images/stephan/Solving_Travelocity_Customer_Sup…_202608160014.jpeg",
     author: "Rajshree",
-    date: "August 13, 2026",
+    date: "August 17, 2026",
     readingTime: "5 min read",
     featured: true
   },
@@ -1481,7 +1481,7 @@ Providing a prepared itinerary number, the travel dates, and a brief description
 
     image: "/images/blogimages/Contacting_Travelocity_phone_num…_2K_202608171519.jpeg",
     author: "Rajshree",
-    date: "August 13, 2026",
+    date: "August 17, 2026",
     readingTime: "5 min read",
     featured: true
   },
@@ -1580,7 +1580,7 @@ Contact Number: : (USA):<a href="tel:18888434146" class="text-blue-600 underline
 
     image: "/images/blogimages/Creating_blog_image_2K_202608171521.jpeg",
     author: "Rajshree",
-    date: "August 13, 2026",
+    date: "August 17, 2026",
     readingTime: "5 min read",
     featured: true
   },
@@ -1686,7 +1686,7 @@ Have your travel booking information on hand, describe your problem in detail, a
 
     image: "/images/blogimages/Customer_service_representative_…_202608171535.jpeg",
     author: "Rajshree",
-    date: "August 13, 2026",
+    date: "August 17, 2026",
     readingTime: "5 min read",
     featured: true
   },
@@ -1821,9 +1821,9 @@ Cambiar la reserva puede ser más conveniente que cancelarla si todavía tienes 
      `,
     category: "Travelocity",
 
-    image: "",
+    image: "/images/blogimages/Traveler_using_smartphone_for_re…_202608171657.jpeg",
     author: "Rajshree",
-    date: "August 13, 2026",
+    date: "August 17, 2026",
     readingTime: "5 min read",
     featured: true
   },
