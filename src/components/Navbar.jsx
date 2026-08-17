@@ -35,7 +35,6 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20 sm:h-24">
           
-          {/* Logo Section - Scaled to fill internal transparent padding */}
           <Link to="/" className="flex items-center py-1 overflow-hidden">
             <img
               src="/images/ASD Logo.png"
@@ -44,7 +43,6 @@ export default function Navbar() {
             />
           </Link>
 
-          {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-10">
             {navLinks.map((link) => (
               <NavLink
@@ -60,7 +58,6 @@ export default function Navbar() {
             ))}
           </nav>
 
-          {/* Mobile Menu Button */}
           <div className="flex md:hidden items-center space-x-2">
             <button
               onClick={() => setIsOpen(!isOpen)}
@@ -73,7 +70,6 @@ export default function Navbar() {
         </div>
       </div>
 
-      {/* Mobile Drawer */}
       {isOpen && (
         <div className="md:hidden border-b border-gray-200 bg-white px-4 pt-2 pb-6 space-y-4">
           <nav className="flex flex-col space-y-3 pt-2">
