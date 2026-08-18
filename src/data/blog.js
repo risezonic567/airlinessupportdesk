@@ -1713,16 +1713,17 @@ Get Familiar with the Refund Timeline: The normal time it takes for a refund to 
      <a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a> (USA) Make use of our services to solve your travel problems instantly so that you can enjoy your trip.</p>
 
         
-          `,
-    category: "Travelocity",
+ 
+   `,
+  category: "Travelocity",
+  image: "/images/stephan/tv7.jpeg",
+  author: "Rajshree",
+  date: "August 13, 2026",
+  readingTime: "5 min read",
+  featured: true
+},
 
-    image: "/images/stephan/tv7.jpeg",
-    author: "Rajshree",
-    date: "August 13, 2026",
-    readingTime: "5 min read",
-    featured: true
-  }, 
-{}
+];
 
 export const categories = [
   "All",
@@ -1732,5 +1733,5 @@ export const categories = [
   "AI",
   "Lifestyle",
   "Development"
-
-];
+];    
+     
