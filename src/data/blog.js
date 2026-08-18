@@ -1893,7 +1893,7 @@ Verify the current phone number via the official website of Priceline prior to c
   category: "Travelocity",
   image: "/images/stephan/Priceline_customer_service_phone…_202608182348.jpeg",
   author: "Rajshree",
-  date: "August 13, 2026",
+  date: "August 18th , 2026",
   readingTime: "5 min read",
   featured: true
 },
