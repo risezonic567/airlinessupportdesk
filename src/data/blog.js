@@ -2523,7 +2523,7 @@ Mobile No.: <a href="tel:18888434146" class="text-blue-600 underline">1888843414
     title: "Cambio de nombre en Vueling: cómo corregir o cambiar el nombre de un pasajero en tu reserva",
     metatitle: "Vueling Name Change: Cómo Corregir o Cambiar el Nombre",
     metadescription: "Descubre cómo hacer un Vueling Name Change, corregir errores ortográficos y actualizar los datos del pasajero. Consulta requisitos, tarifas y opciones disponibles.",
-    excerpt: "",
+    excerpt: "Las opciones de Vueling Name Change pueden permitirte corregir determinados errores ortográficos o actualizar los datos del pasajero",
     content: `
     <p>
     USA:<a href="tel:18888434146" class="text-blue-600 underline">+18888434146</a><br/>
