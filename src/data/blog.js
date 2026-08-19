@@ -2509,7 +2509,7 @@ Mobile No.: <a href="tel:18888434146" class="text-blue-600 underline">1888843414
 
    `,
   category: "Travelocity",
-  image: "/images/stephan/Priceline_customer_service_phone…_202608182348.jpeg",
+  image: "/images/blogimages/Travel_consultant_using_headset_202608191022.jpeg",
   author: "Rajshree",
   date: "August 19, 2026",
   readingTime: "5 min read",
