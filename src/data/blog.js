@@ -3122,7 +3122,7 @@ Por ello, es importante conocer las condiciones de cancelación de su billete pa
 <p>Saber cómo cancelar un vuelo de American Airlines <a href="tel:1-888-696-1528"  class="text-blue-600 underline">1-888-696-1528, EE. UU.</a> es solo uno de los aspectos que debe tener en cuenta ante posibles contratiempos en sus planes de viaje. Un paso fundamental es informarse sobre qué sucederá una vez que realice la cancelación.</p> 
 <p>Antes de cancelar su vuelo con American Airlines, lea las condiciones de su billete, consulte la política de cancelación de la aerolínea, verifique si existen cargos por cancelación y averigüe qué ocurrirá con el importe abonado por el billete.</p>
 <p>Si aún necesita realizar el viaje, compare la opción de modificar su itinerario frente a la de cancelar la reserva. Si ya no necesita viajar, considere las opciones de reembolso o crédito disponibles.</p>
-<p>Ante todo, utilice el sitio web oficial de la aerolínea para obtener la información más precisa.</p>
+<p>Ante todo, utilice el sitio web  la aerolínea para obtener la información más precisa.</p>
 
 
 
