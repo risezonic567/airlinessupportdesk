@@ -3426,9 +3426,10 @@ Ma non tutto richiede un contatto telefonico.Modifiche semplici,dettagli del che
     metatitle: "Neos Airlines: Assistenza, Prenotazioni, Cancellazioni e Rimborsi",
     metadescription: "Scopri come contattare Neos Airlines per assistenza, gestire una prenotazione, richiedere una cancellazione o verificare le modalità di rimborso",
 
-    excerpt:"Cambiar los planes de viaje es bastante común. Ya sea por una reunión de trabajo,un imprevisto familiar, la necesidad de cambiar fechas u otros ajustes a tu viaje, puede ser que necesites modificar un vuelo de Spirit desde Estados Unidos.",
+    excerpt:"programmi di viaggio possono cambiare per diversi motivi. Un passeggero potrebbe avere necessità di modificare la data del volo, cambiare una tratta oppure apportare altre variazioni alla propria prenotazione",
+
     content: `
-   <p><
+   <p>
    Website::<a href ="https://airlinessupport-desk.com" class="text-blue-600 underline">https ://airlinessupport-desk.com/</a><br>
 Telephone no.: <a href =" tel: +39 800 974 732,
 " class="text-blue-600 underline">   +39 800 974 732
