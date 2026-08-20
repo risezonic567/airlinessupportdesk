@@ -8,6 +8,40 @@ export const blogPosts = [
       "Travelocity Phone Number: Official Customer Service & Support",
     metadescription:
       "Find the Travelocity phone number for customer service  refunds, cancellations, booking changes, to and other travel assistance in the USA",
+      schema: {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+
+  "headline": "Travelocity Phone Number: Official Customer Service & Support",
+
+  "description":
+    "Find information about the Travelocity phone number, customer service, and support options for help with bookings, cancellations, refunds, changes, and other travel-related questions.",
+
+  "image": [
+    "https://www.airlinessupport-desk.com/images/blogimages/YOUR-IMAGE-NAME.jpeg"
+  ],
+
+  "author": {
+    "@type": "Person",
+    "name": "Rajshree"
+  },
+
+  "publisher": {
+    "@type": "Organization",
+    "name": "Airlines Support Desk",
+    "url": "https://www.airlinessupport-desk.com"
+  },
+
+  "datePublished": "2026-08-20",
+  "dateModified": "2026-08-20",
+
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.airlinessupport-desk.com/blog/travelocity-phone-number-official-customer-service-support"
+  },
+
+  "url": "https://www.airlinessupport-desk.com/blog/travelocity-phone-number-official-customer-service-support"
+},
     excerpt: "Ifyouneed immediateassistancewith a booking, cancellation, refund, or flight change,contact Travelocity customer service  +18888434146 (USA) using the appropriate support line for your region.",
     content: `
      <h3 class="text-xl font-semibold mt-5 mb-5">Travelocity Phone Number</h3>
@@ -41,7 +75,7 @@ export const blogPosts = [
         <h2 class="text-2xl font-semibold mt-5 mb-5">Frequently Asked Questions</h2>
         <h4 class="text-xl font-semibold mt-5 mb-5">WhatistheTravelocityphonenumber for refunds?</h4>
         <p>
-          For refund-related questions, call Travelocity customer service in your region:<br />
+           For refund-related questions, call Travelocity customer service in your region:<br />
           USA: <a href="tel:18888434146" class="text-blue-600 underline">18888434146</a><br /><br />
           Refund eligibility depends on the airline, hotel, or travel provider’s policies and the fare
           rules attached to your reservation.<br />

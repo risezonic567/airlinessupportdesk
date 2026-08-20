@@ -56,57 +56,9 @@ export default function BlogDetails() {
         <title>{blog.metatitle}</title>
         <meta name="description" content={blog.metadescription}/>
         <link rel="canonical" href={blog.conanical} />
-        <script type="application/ld+json">
-          {
-            `{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Cómo contactar a Airlines Support Desk en España?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Llama al número de atención al cliente en España: <a href=\"tel:+34900680866\">+34 900 680 866</a>. También puedes escribirnos por WhatsApp para asistencia inmediata."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I contact Airlines Support Desk in the USA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Call our USA toll-free number: <a href=\"tel:+18888434146\">+1-888-843-4146</a>. WhatsApp support is also available for urgent help."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I change my flight date by phone?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, call our support desk and request 'flight change'. Agents are available 24/7 in English and Spanish."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I request a refund?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Call <a href=\"tel:+34900680866\">+34 900 680 866</a> (Spain) or <a href=\"tel:+18888434146\">+1-888-843-4146</a> (USA) and ask for 'refund assistance'. WhatsApp support is also available."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is support available in Spanish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we provide bilingual support (English + Español) for both Spain and US customers."
-      }
-    }
-  ]
-}
-          `
-          }
-        </script>
+       <script type="application/ld+json">
+  {JSON.stringify(blogSchema)}
+</script>
 
       </Helmet>
 
