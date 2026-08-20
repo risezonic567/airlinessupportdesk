@@ -3387,6 +3387,54 @@ Conclusión
     metatitle: "Numero di Telefono Ryanair Italia +39800974732 | Parla con un Agente",
     metadescription: "Cerchi il numero di telefono Ryanair Italia +39800974732? Scopri come contattare un agente, ricevere assistenza e gestire prenotazioni, voli e rimborsi.",
     excerpt: "Durante i tuoi voli potresti aver bisogno di un supporto per la prenotazione dei biglietti,per i cambi di volo,per i problemi con i bagagli e per i rimborsi.",
+    shema:{
+
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qual è il numero di telefono per la Ryanair Italia per fare domande generali?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il numero per nuove prenotazioni e domande generali è +39800974732 (IT). Inoltre c'è un altro numero disponibile: +39800974732 (IT)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "È possibile contattare la Ryanair in Italiano?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certamente, perché secondo il sito l'Italiano è una delle lingue disponibili per il supporto telefonico."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali sono gli orari di apertura per la Ryanair Italia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Se si deve contattare la Ryanair Italia telefonicamente per nuove prenotazioni e domande generali, gli orari sono dalle 09:00 alle 18:00 CET nei giorni feriali e dalle 10:00 alle 17:00 CET nei fine settimana."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "È possibile contattare la Ryanair senza fare una telefonata?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Naturalmente, perché la Ryanair offre ai suoi clienti la possibilità di utilizzare la chat online alimentata da chatbot e operatori, nonché moduli per completare alcune richieste."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cosa devo avere quando chiamo la Ryanair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sarà meglio avere il numero della prenotazione, le informazioni sui passeggeri e sul volo, nonché l'indirizzo e-mail utilizzato per la prenotazione."
+      }
+    }
+  ]
+
+    },
     content: `
   <p>Sito web: <a href="https://airlinessupport-desk.com" class="text-blue-600 underline">https://airlinessupport-desk.com</a>/</br>
 Numero di cellulare: <a href="tel:+39800974732(IT)" class="text-blue-600 underline">+39800974732(IT)</a></p>
@@ -3459,7 +3507,44 @@ Ma non tutto richiede un contatto telefonico.Modifiche semplici,dettagli del che
 
     metatitle: "Neos Airlines: Assistenza, Prenotazioni, Cancellazioni e Rimborsi",
     metadescription: "Scopri come contattare Neos Airlines per assistenza, gestire una prenotazione, richiedere una cancellazione o verificare le modalità di rimborso",
-
+    shema:{
+         "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Come posso modificare la mia prenotazione con Neos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "È necessario verificare le condizioni del biglietto acquistato. In base al tipo di biglietto potrebbe esserci la possibilità di cambiare la data, la rotta o altri elementi della prenotazione. Potrebbero esserci delle spese di modifica e delle differenze tariffarie."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come posso annullare un volo Neos Italia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Per annullare un volo Neos Italia è necessario verificare i termini e le regole del tuo biglietto. È bene tenere presente che le possibili azioni in caso di cancellazione volontaria sono diverse da quelle se il volo viene cancellato dalla compagnia aerea."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come posso richiedere un rimborso per un volo Neos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Per richiedere un rimborso per un volo Neos è necessario conservare il codice prenotazione, la conferma e le ricevute di pagamento. La possibilità di un rimborso dipende dalla causa della cancellazione e dalle condizioni del biglietto."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual è il numero di telefono di Neos Italia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il numero di telefono +39 800 974 732 (39800974732) è indicato sul sito del servizio clienti di Neos. Prima di contattarlo è bene verificare che i dati di contatto siano corretti."
+      }
+    }
+  ]
+    },
     excerpt:"programmi di viaggio possono cambiare per diversi motivi. Un passeggero potrebbe avere necessità di modificare la data del volo, cambiare una tratta oppure apportare altre variazioni alla propria prenotazione",
 
     content: `
