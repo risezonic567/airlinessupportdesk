@@ -3345,7 +3345,6 @@ Conclusión
   featured: true
 },
 
-<<<<<<< Updated upstream
 {
     id: 29,
     slug: "numero-di-telefono-ryanair-italia+39800974732:-come-parlare-subito-con-un-agente",
@@ -3414,11 +3413,10 @@ Ma non tutto richiede un contatto telefonico.Modifiche semplici,dettagli del che
   date: "August 20, 2026",
   readingTime: "5 min read",
   featured: true
-}
+},
 
 
 
-=======
  {
     id: 30,
     slug: "neos-airlines:Assistenza-prenotazionecancellazion-rimborso",
@@ -3592,7 +3590,6 @@ Il numero di telefono +39 800 974 732 (39800974732)<a href =" tel: +39 800 974 7
   readingTime: "5 min read",
   featured: true
 },
->>>>>>> Stashed changes
 
 
 ];
