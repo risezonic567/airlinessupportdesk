@@ -57,7 +57,7 @@ export default function BlogDetails() {
         <meta name="description" content={blog.metadescription}/>
         <link rel="canonical" href={blog.conanical} />
        <script type="application/ld+json">
-  {JSON.stringify(blogSchema)}
+  {JSON.stringify(blog.schema)}
 </script>
 
       </Helmet>
