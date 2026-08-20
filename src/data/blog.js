@@ -8,40 +8,40 @@ export const blogPosts = [
       "Travelocity Phone Number: Official Customer Service & Support",
     metadescription:
       "Find the Travelocity phone number for customer service  refunds, cancellations, booking changes, to and other travel assistance in the USA",
-      schema: {
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
+    schema: {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
 
-  "headline": "Travelocity Phone Number: Official Customer Service & Support",
+      "headline": "Travelocity Phone Number: Official Customer Service & Support",
 
-  "description":
-    "Find information about the Travelocity phone number, customer service, and support options for help with bookings, cancellations, refunds, changes, and other travel-related questions.",
+      "description":
+        "Find information about the Travelocity phone number, customer service, and support options for help with bookings, cancellations, refunds, changes, and other travel-related questions.",
 
-  "image": [
-    "https://www.airlinessupport-desk.com/images/blogimages/YOUR-IMAGE-NAME.jpeg"
-  ],
+      "image": [
+        "https://www.airlinessupport-desk.com/images/blogimages/YOUR-IMAGE-NAME.jpeg"
+      ],
 
-  "author": {
-    "@type": "Person",
-    "name": "Rajshree"
-  },
+      "author": {
+        "@type": "Person",
+        "name": "Rajshree"
+      },
 
-  "publisher": {
-    "@type": "Organization",
-    "name": "Airlines Support Desk",
-    "url": "https://www.airlinessupport-desk.com"
-  },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Airlines Support Desk",
+        "url": "https://www.airlinessupport-desk.com"
+      },
 
-  "datePublished": "2026-08-20",
-  "dateModified": "2026-08-20",
+      "datePublished": "2026-08-20",
+      "dateModified": "2026-08-20",
 
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.airlinessupport-desk.com/blog/travelocity-phone-number-official-customer-service-support"
-  },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airlinessupport-desk.com/blog/travelocity-phone-number-official-customer-service-support"
+      },
 
-  "url": "https://www.airlinessupport-desk.com/blog/travelocity-phone-number-official-customer-service-support"
-},
+      "url": "https://www.airlinessupport-desk.com/blog/travelocity-phone-number-official-customer-service-support"
+    },
     excerpt: "Ifyouneed immediateassistancewith a booking, cancellation, refund, or flight change,contact Travelocity customer service  +18888434146 (USA) using the appropriate support line for your region.",
     content: `
      <h3 class="text-xl font-semibold mt-5 mb-5">Travelocity Phone Number</h3>
@@ -1750,12 +1750,12 @@ Get Familiar with the Refund Timeline: The normal time it takes for a refund to 
         
  
    `,
-  category: "Travelocity",
-  image: "/images/stephan/tv7.jpeg",
-  author: "Rajshree",
-  date: "August 13, 2026",
-  readingTime: "5 min read",
-  featured: true
+    category: "Travelocity",
+    image: "/images/stephan/tv7.jpeg",
+    author: "Rajshree",
+    date: "August 13, 2026",
+    readingTime: "5 min read",
+    featured: true
   },
 
   {
@@ -2397,13 +2397,13 @@ Verify the current phone number via the official website of Priceline prior to c
 
    
    `,
-  category: "Travelocity",
-  image: "/images/stephan/Priceline_customer_service_phone…_202608182348.jpeg",
-  author: "Rajshree",
-  date: "August 18, 2026",
-  readingTime: "5 min read",
-  featured: true
-},
+    category: "Travelocity",
+    image: "/images/stephan/Priceline_customer_service_phone…_202608182348.jpeg",
+    author: "Rajshree",
+    date: "August 18, 2026",
+    readingTime: "5 min read",
+    featured: true
+  },
 
   {
     id: 22,
@@ -2542,13 +2542,13 @@ Mobile No.: <a href="tel:18888434146" class="text-blue-600 underline">1888843414
   </p>
 
    `,
-  category: "Travelocity",
-  image: "/images/blogimages/Travel_consultant_using_headset_202608191022.jpeg",
-  author: "Rajshree",
-  date: "August 19, 2026",
-  readingTime: "5 min read",
-  featured: true
-},
+    category: "Travelocity",
+    image: "/images/blogimages/Travel_consultant_using_headset_202608191022.jpeg",
+    author: "Rajshree",
+    date: "August 19, 2026",
+    readingTime: "5 min read",
+    featured: true
+  },
 
   {
     id: 23,
@@ -2692,15 +2692,15 @@ Spain : <a href="tel:+34900680866" class="text-blue-600 underline">+34900680866(
   </p>
 
    `,
-  category: "Travelocity",
-  image: "/images/blogimages/Person_typing_on_laptop_202608191118.jpeg",
-  author: "Rajshree",
-  date: "August 19, 2026",
-  readingTime: "5 min read",
-  featured: true
-},
+    category: "Travelocity",
+    image: "/images/blogimages/Person_typing_on_laptop_202608191118.jpeg",
+    author: "Rajshree",
+    date: "August 19, 2026",
+    readingTime: "5 min read",
+    featured: true
+  },
 
- {
+  {
     id: 24,
     slug: "priceline-support-contact-information--how-to-reach-priceline-support",
     conanical: "https://www.airlinessupport-desk.com/blog/priceline-support-contact-information--how-to-reach-priceline-support",
@@ -2815,13 +2815,13 @@ Phone Number: USA:<a href="tel:18888434146" class="text-blue-600 underline">+188
 
 
    `,
-  category: "Travelocity",
-  image: "images/stephan/Priceline_support_contact_inform…_202608192352.jpeg",
-  author: "Rajshree",
-  date: "August 19, 2026",
-  readingTime: "5 min read",
-  featured: true
-},
+    category: "Travelocity",
+    image: "images/stephan/Priceline_support_contact_inform…_202608192352.jpeg",
+    author: "Rajshree",
+    date: "August 19, 2026",
+    readingTime: "5 min read",
+    featured: true
+  },
 
   {
     id: 25,
@@ -2979,15 +2979,15 @@ Phone Number: USA:<a href="tel:18888434146" class="text-blue-600 underline">clic
     <p>Priceline Customer Care Phone Number: <a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a> (USA)</p>
 
    `,
-  category: "Travelocity",
-  image: "images/stephan/Woman_booking_hotel_reservations…_202608200211.jpeg",
-  author: "Rajshree",
-  date: "August 20, 2026",
-  readingTime: "5 min read",
-  featured: true
-},
+    category: "Travelocity",
+    image: "images/stephan/Woman_booking_hotel_reservations…_202608200211.jpeg",
+    author: "Rajshree",
+    date: "August 20, 2026",
+    readingTime: "5 min read",
+    featured: true
+  },
 
- {
+  {
     id: 26,
     slug: "priceline-cancellation-phone-process-explained:-fast-solutions",
     conanical: "https://www.airlinessupport-desk.com/blog/priceline-cancellation-phone-process-explained:-fast-solutions",
@@ -3058,15 +3058,15 @@ Check the Travel Insurance Policy: If you have travel insurance which you have a
 
 
    `,
-  category: "Travelocity",
-  image: "/images/stephan/Priceline_cancellation_phone_pro…_202608200348.jpeg",
-  author: "Rajshree",
-  date: "August 20, 2026",
-  readingTime: "5 min read",
-  featured: true
-},
+    category: "Travelocity",
+    image: "/images/stephan/Priceline_cancellation_phone_pro…_202608200348.jpeg",
+    author: "Rajshree",
+    date: "August 20, 2026",
+    readingTime: "5 min read",
+    featured: true
+  },
 
- {
+  {
     id: 27,
     slug: "cancelación-de-vuelos-y-cambios-de-reserva-en-american-airlines:-aspectos-clave-a-considerar-antes-de-cancelar",
     conanical: "https://www.airlinessupport-desk.com/blog/cancelación-de-vuelos-y-cambios-de-reserva-en-american-airlines:-aspectos-clave-a-considerar-antes-de-cancelar",
@@ -3151,15 +3151,15 @@ Por ello, es importante conocer las condiciones de cancelación de su billete pa
 
 
 `,
-  category: "Travelocity",
-  image: "/images/tanisha/Gemini_Generated_Image_ez9ewyez9ewyez9e.png",
-  author: "Rajshree",
-  date: "August 20, 2026",
-  readingTime: "5 min read",
-  featured: true
-},
+    category: "Travelocity",
+    image: "/images/tanisha/Gemini_Generated_Image_ez9ewyez9ewyez9e.png",
+    author: "Rajshree",
+    date: "August 20, 2026",
+    readingTime: "5 min read",
+    featured: true
+  },
 
-{
+  {
     id: 28,
     slug: "cómo-modificar-o-cancelar-un-vuelo-de-spirit-desde-estados-unidos:-todo-lo-que-debes-saber-en-español",
     conanical: "https://www.airlinessupport-desk.com/blog/cómo-modificar-o-cancelar-un-vuelo-de-spirit-desde-estados-unidos:-todo-lo-que-debes-saber-en-español",
@@ -3371,68 +3371,68 @@ Conclusión
 <p>Verifica tu reserva y consulta las posibilidades de las cancelaciones. Primero empieza por revisar la política de la compañía y verifica si por este caso puedes recibir reembolso, crédito u otra cosa.</p>
 
    `,
-  category: "Travelocity",
-  image: "/images/blogimages/Person_typing_on_laptop_202608191118.jpeg",
-  author: "Rajshree",
-  date: "August 20, 2026",
-  readingTime: "5 min read",
-  featured: true
-},
+    category: "Travelocity",
+    image: "/images/blogimages/Person_typing_on_laptop_202608191118.jpeg",
+    author: "Rajshree",
+    date: "August 20, 2026",
+    readingTime: "5 min read",
+    featured: true
+  },
 
-{
+  {
     id: 29,
-    slug: "numero-di-telefono-ryanair-italia+39800974732:-come-parlare-subito-con-un-agente",
-    conanical: "https://www.airlinessupport-desk.com/blog/numero-di-telefono-ryanair-italia+39800974732:-come-parlare-subito-con-un-agente",
+    slug: "numero-di-telefono-ryanair-italia-come-parlare-subito-con-un-agente",
+    conanical: "https://www.airlinessupport-desk.com/blog/numero-di-telefono-ryanair-italia-come-parlare-subito-con-un-agente",
     title: "Numero di telefono Ryanair Italia+39800974732: Come Parlare Subito con un Agente",
     metatitle: "Numero di Telefono Ryanair Italia +39800974732 | Parla con un Agente",
     metadescription: "Cerchi il numero di telefono Ryanair Italia +39800974732? Scopri come contattare un agente, ricevere assistenza e gestire prenotazioni, voli e rimborsi.",
     excerpt: "Durante i tuoi voli potresti aver bisogno di un supporto per la prenotazione dei biglietti,per i cambi di volo,per i problemi con i bagagli e per i rimborsi.",
-    shema:{
+    schema: {
 
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Qual è il numero di telefono per la Ryanair Italia per fare domande generali?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Il numero per nuove prenotazioni e domande generali è +39800974732 (IT). Inoltre c'è un altro numero disponibile: +39800974732 (IT)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "È possibile contattare la Ryanair in Italiano?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Certamente, perché secondo il sito l'Italiano è una delle lingue disponibili per il supporto telefonico."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Quali sono gli orari di apertura per la Ryanair Italia?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Se si deve contattare la Ryanair Italia telefonicamente per nuove prenotazioni e domande generali, gli orari sono dalle 09:00 alle 18:00 CET nei giorni feriali e dalle 10:00 alle 17:00 CET nei fine settimana."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "È possibile contattare la Ryanair senza fare una telefonata?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Naturalmente, perché la Ryanair offre ai suoi clienti la possibilità di utilizzare la chat online alimentata da chatbot e operatori, nonché moduli per completare alcune richieste."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Cosa devo avere quando chiamo la Ryanair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sarà meglio avere il numero della prenotazione, le informazioni sui passeggeri e sul volo, nonché l'indirizzo e-mail utilizzato per la prenotazione."
-      }
-    }
-  ]
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Qual è il numero di telefono per la Ryanair Italia per fare domande generali?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il numero per nuove prenotazioni e domande generali è +39800974732 (IT). Inoltre c'è un altro numero disponibile: +39800974732 (IT)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "È possibile contattare la Ryanair in Italiano?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Certamente, perché secondo il sito l'Italiano è una delle lingue disponibili per il supporto telefonico."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quali sono gli orari di apertura per la Ryanair Italia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se si deve contattare la Ryanair Italia telefonicamente per nuove prenotazioni e domande generali, gli orari sono dalle 09:00 alle 18:00 CET nei giorni feriali e dalle 10:00 alle 17:00 CET nei fine settimana."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "È possibile contattare la Ryanair senza fare una telefonata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Naturalmente, perché la Ryanair offre ai suoi clienti la possibilità di utilizzare la chat online alimentata da chatbot e operatori, nonché moduli per completare alcune richieste."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cosa devo avere quando chiamo la Ryanair?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sarà meglio avere il numero della prenotazione, le informazioni sui passeggeri e sul volo, nonché l'indirizzo e-mail utilizzato per la prenotazione."
+          }
+        }
+      ]
 
     },
     content: `
@@ -3489,63 +3489,63 @@ Ma non tutto richiede un contatto telefonico.Modifiche semplici,dettagli del che
 <p>Sarà meglio avere il numero della prenotazione,le informazioni sui passeggeri e sul volo, nonché l'indirizzo e-mail utilizzato per la prenotazione.</p>
 <h2 class="text-2xl font-semibold">Conclusione</h2>
 <p>Il numero di telefono del contatto Ryanair Italia è solo un punto di partenza per ricevere un'assistenza efficiente.Preparate i dettagli della prenotazione e del problema che volete discutere prima di prendere il telefono.Se l'uso del telefono non sembra essere il modo più conveniente per raggiungere Ryanair potete sempre utilizzare la chat e altri servizi del Centro Assistenza.</p>`,
-  category: "Travelocity",
-  image: "/images/tanisha/Gemini_Generated_Image_5fyof35fyof35fyo.png",
-  author: "Rajshree",
-  date: "August 20, 2026",
-  readingTime: "5 min read",
-  featured: true
-},
+    category: "Travelocity",
+    image: "/images/tanisha/Gemini_Generated_Image_5fyof35fyof35fyo.png",
+    author: "Rajshree",
+    date: "August 20, 2026",
+    readingTime: "5 min read",
+    featured: true
+  },
 
 
 
- {
+  {
     id: 30,
-    slug: "neos-airlines:Assistenza-prenotazionecancellazion-rimborso",
-    conanical: "https://www.airlinessupport-desk.com/blog/neos-airlines:Assistenza-prenotazione-cancellazione-rimborso",
+    slug: "neos-airlines-assistenza-prenotazionecancellazion-rimborso",
+    conanical: "https://www.airlinessupport-desk.com/blog/neos-airlines-assistenza-prenotazione-cancellazione-rimborso",
     title: "Neos Airlines:Assistenza, Prenotazione, Cancellazione,Rimborso",
 
     metatitle: "Neos Airlines: Assistenza, Prenotazioni, Cancellazioni e Rimborsi",
     metadescription: "Scopri come contattare Neos Airlines per assistenza, gestire una prenotazione, richiedere una cancellazione o verificare le modalità di rimborso",
-    shema:{
-         "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Come posso modificare la mia prenotazione con Neos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "È necessario verificare le condizioni del biglietto acquistato. In base al tipo di biglietto potrebbe esserci la possibilità di cambiare la data, la rotta o altri elementi della prenotazione. Potrebbero esserci delle spese di modifica e delle differenze tariffarie."
-      }
+    schema: {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Come posso modificare la mia prenotazione con Neos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È necessario verificare le condizioni del biglietto acquistato. In base al tipo di biglietto potrebbe esserci la possibilità di cambiare la data, la rotta o altri elementi della prenotazione. Potrebbero esserci delle spese di modifica e delle differenze tariffarie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Come posso annullare un volo Neos Italia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Per annullare un volo Neos Italia è necessario verificare i termini e le regole del tuo biglietto. È bene tenere presente che le possibili azioni in caso di cancellazione volontaria sono diverse da quelle se il volo viene cancellato dalla compagnia aerea."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Come posso richiedere un rimborso per un volo Neos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Per richiedere un rimborso per un volo Neos è necessario conservare il codice prenotazione, la conferma e le ricevute di pagamento. La possibilità di un rimborso dipende dalla causa della cancellazione e dalle condizioni del biglietto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Qual è il numero di telefono di Neos Italia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il numero di telefono +39 800 974 732 (39800974732) è indicato sul sito del servizio clienti di Neos. Prima di contattarlo è bene verificare che i dati di contatto siano corretti."
+          }
+        }
+      ]
     },
-    {
-      "@type": "Question",
-      "name": "Come posso annullare un volo Neos Italia?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Per annullare un volo Neos Italia è necessario verificare i termini e le regole del tuo biglietto. È bene tenere presente che le possibili azioni in caso di cancellazione volontaria sono diverse da quelle se il volo viene cancellato dalla compagnia aerea."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Come posso richiedere un rimborso per un volo Neos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Per richiedere un rimborso per un volo Neos è necessario conservare il codice prenotazione, la conferma e le ricevute di pagamento. La possibilità di un rimborso dipende dalla causa della cancellazione e dalle condizioni del biglietto."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Qual è il numero di telefono di Neos Italia?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Il numero di telefono +39 800 974 732 (39800974732) è indicato sul sito del servizio clienti di Neos. Prima di contattarlo è bene verificare che i dati di contatto siano corretti."
-      }
-    }
-  ]
-    },
-    excerpt:"programmi di viaggio possono cambiare per diversi motivi. Un passeggero potrebbe avere necessità di modificare la data del volo, cambiare una tratta oppure apportare altre variazioni alla propria prenotazione",
+    excerpt: "programmi di viaggio possono cambiare per diversi motivi. Un passeggero potrebbe avere necessità di modificare la data del volo, cambiare una tratta oppure apportare altre variazioni alla propria prenotazione",
 
     content: `
    <p>
@@ -3691,25 +3691,14 @@ Il numero di telefono +39 800 974 732 (39800974732)<a href =" tel: +39 800 974 7
 
 
 
-
-
-
-
-
-
-
-
-
-
-
    `,
-  category: "Travelocity",
-  image: "/images/Soniya/neos airlines.png",
-  author: "Rajshree",
-  date: "August 19, 2026",
-  readingTime: "5 min read",
-  featured: true
-},
+    category: "Travelocity",
+    image: "/images/Soniya/neos airlines.png",
+    author: "Rajshree",
+    date: "August 19, 2026",
+    readingTime: "5 min read",
+    featured: true
+  },
 
 
 ];
@@ -3722,5 +3711,4 @@ export const categories = [
   "AI",
   "Lifestyle",
   "Development"
-];    
-     
+];
