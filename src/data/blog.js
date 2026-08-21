@@ -4909,10 +4909,10 @@ Quando contatti l'assistenza, tieni a disposizione il codice di prenotazione e l
         "addressCountry": "ES"
       },
       "telephone": "+34900680866"
-    }
+   }
   ]
 
-    },
+   },
     
     excerpt:"En caso de que se presente un problema durante el proceso de reserva o durante un vuelo o incluso cuando haya una necesidad repentina de contactar al servicio al cliente, una búsqueda rápida le ahorrará mucho tiempo al viajero.En el caso ",
 
@@ -4967,7 +4967,7 @@ Esto es especialmente cierto cuando te pidan tus datos bancarios, contraseñas o
 <h2 class="text-2xl font-semibold">Conclusión</h2>
 <p>Tener buenos datos de contacto facilitará el enfrentar cualquier desafío inesperado durante el viaje.En caso de que sea necesario contactar a Frontier Airlines se pueden utilizar los números de teléfono <a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a>(USA), 
 <a href="tel:+34900680866" class="text-blue-600 underline">+34900680866</a>(ES).</p>
-<p>Pero antes de hacer la llamada es conveniente confirmar que los datos de contacto sean los correspondientes al servicio requerido.Prepararse para la transacción y cuidar de sus datos personales son dos cosas que harán el proceso fácil y seguro.</p?
+<p>Pero antes de hacer la llamada es conveniente confirmar que los datos de contacto sean los correspondientes al servicio requerido.Prepararse para la transacción y cuidar de sus datos personales son dos cosas que harán el proceso fácil y seguro.</p>
 
 
 
