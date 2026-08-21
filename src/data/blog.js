@@ -4836,7 +4836,8 @@ Quando contatti l'assistenza, tieni a disposizione il codice di prenotazione e l
     featured: true
   },
 ];
-  export const posts = [
+  
+  export const blogpost = [
   {
     id: 36,
     slug: "numero-de-contacto-de-frontier-airlines-marca-el-18888434146-usa-o-el-34900680866-espana",
