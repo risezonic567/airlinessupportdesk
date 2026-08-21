@@ -4837,14 +4837,16 @@ Quando contatti l'assistenza, tieni a disposizione il codice di prenotazione e l
   },
 ];
   
-  export const blogpost = [
+
+    
+   export const posts = [
   {
     id: 36,
     slug: "numero-de-contacto-de-frontier-airlines-marca-el-18888434146-usa-o-el-34900680866-espana",
-    conanical: "https://www.airlinessupport-desk.com/numero-de-contacto-de-frontier-airlines-marca-el-18888434146-usa-o-el-34900680866-espana",
+    canonical: "https://www.airlinessupport-desk.com/numero-de-contacto-de-frontier-airlines-marca-el-18888434146-usa-o-el-34900680866-espana",
     title: "Numero de contacto de Frontier Airlines: Marca el 18888434146 (USA.) o el 34900680866 (Espana)",
     metatitle: "Numero de Contacto Frontier Airlines: 18888434146 (USA) y 34900680866 (España)",
-    metadescription: "Encuentra el numero de contacto de Frontier Airlines para EE. UU. y España. Llame al 18888434146 (USA) o al 34900680866 (Espana) para obtener asistencia con reservas y vuelos.",
+    metadescription: "Encuentra el numero de contacto de Frontier Airlines para USA. y España. Llame al 18888434146 (USA) o al 34900680866 (Espana) para obtener asistencia con reservas y vuelos.",
     schema: {
          "@context": "https://schema.org",
   "@graph": [
