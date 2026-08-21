@@ -3795,8 +3795,8 @@ Try calling during less busy times: Off-peak times are usually early mornings be
 
   {
     id: 32,
-    slug: "how-do-i-talk-to-a-priceline-agent?-direct-call-possibilities",
-    conanical: "https://www.airlinessupport-desk.com/blog/how-do-i-talk-to-a-priceline-agent?-direct-call-possibilities",
+    slug: "how-do-i-talk-to-a-priceline-agent-direct-call-possibilities",
+    conanical: "https://www.airlinessupport-desk.com/blog/how-do-i-talk-to-a-priceline-agent-direct-call-possibilities",
     title: "How do I talk to a Priceline agent? Direct call possibilities",
 
     metatitle: "How Do I Talk to a Priceline Agent? Direct Call Options",
@@ -3972,8 +3972,8 @@ Prior to making a call, make sure you have your cancellation receipt and booking
 
   {
     id: 33,
-    slug: "priceline-help-center-phone-number?-explained",
-    conanical: "https://www.airlinessupport-desk.com/priceline-help-center-phone-number?-explained",
+    slug: "priceline-help-center-phone-number-explained",
+    conanical: "https://www.airlinessupport-desk.com/priceline-help-center-phone-number-explained",
     title: "Priceline Help Center Phone Number? Explained",
 
     metatitle: "Priceline Help Center Phone Number: How to Contact Support",
