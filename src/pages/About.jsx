@@ -9,7 +9,7 @@ export default function About() {
         {/* Hero Header */}
         <div className="text-center mb-12">
           <h1 className="text-4xl sm:text-5xl font-black text-gray-900 tracking-tight mb-4">
-            About DevPulse
+            About Airlines Support
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed">
             Delivering clean, practical, and cutting-edge perspectives on modern software engineering, web design, and digital craft.
@@ -21,7 +21,7 @@ export default function About() {
           <div>
             <h2 className="text-2xl font-extrabold text-gray-900 mb-4">Our Mission</h2>
             <p className="text-gray-600 leading-relaxed text-base">
-              DevPulse was created to cut through the digital noise. We curate high-signal articles that help engineers, founders, and creators stay inspired and execute better.
+              Airlines Support was created to cut through the digital noise. We curate high-signal articles that help engineers, founders, and creators stay inspired and execute better.
             </p>
           </div>
 

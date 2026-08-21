@@ -80,7 +80,7 @@ export default function BlogDetails() {
               {blog.category}
             </div>
 
-            <h1 className="text-3xl sm:text-4xl md:text-5xl font-black text-gray-900 tracking-tight leading-tight mb-6">
+            <h1 className="text-3xl sm:text-4xl md:text-4xl font-black text-gray-900 tracking-tight leading-tight mb-6">
               {blog.title}
             </h1>
 
