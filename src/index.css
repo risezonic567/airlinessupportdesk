@@ -1,20 +1,46 @@
 @import "tailwindcss";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* Smooth scrolling */
 html {
   scroll-behavior: smooth;
 }
 
-/* Custom scrollbar hiding utility */
 @layer utilities {
   .scrollbar-none::-webkit-scrollbar {
     display: none;
   }
+
   .scrollbar-none {
     -ms-overflow-style: none;
     scrollbar-width: none;
   }
+}
+
+
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+body {
+  top: 0 !important;
+}
+
+#google_translate_element {
+  display: none !important;
+}
+
+.goog-tooltip {
+  display: none !important;
+}
+
+.goog-text-highlight {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.goog-te-balloon-frame {
+  display: none !important;
 }

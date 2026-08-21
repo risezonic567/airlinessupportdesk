@@ -1,11 +1,12 @@
 import { useState } from "react";
 import { NavLink, Link, useNavigate } from "react-router-dom";
-import { Search, Menu, X } from "lucide-react";
+import { Menu, X } from "lucide-react";
+import GoogleTranslate from "./GoogleTranslate";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
-  const [showSearch, setShowSearch] = useState(false);
+  const [showSearch, setShowSearch] = useState(false)
   const navigate = useNavigate();
 
   const handleSearchSubmit = (e) => {
@@ -34,7 +35,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-gray-100 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20 sm:h-24">
-          
+
           <Link to="/" className="flex items-center py-1 overflow-hidden">
             <img
               src="/images/ASD Logo.png"
@@ -44,18 +45,26 @@ export default function Navbar() {
           </Link>
 
           <nav className="hidden md:flex items-center space-x-10">
-            {navLinks.map((link) => (
-              <NavLink
-                key={link.path}
-                to={link.path}
-                className={({ isActive }) =>
-                  isActive ? activeClass : inactiveClass
-                }
-                end={link.path === "/"}
-              >
-                {link.name}
-              </NavLink>
-            ))}
+            <div className="hidden md:flex items-center gap-8">
+
+              <nav className="flex items-center space-x-10">
+                {navLinks.map((link) => (
+                  <NavLink
+                    key={link.path}
+                    to={link.path}
+                    className={({ isActive }) =>
+                      isActive ? activeClass : inactiveClass
+                    }
+                    end={link.path === "/"}
+                  >
+                    {link.name}
+                  </NavLink>
+                ))}
+              </nav>
+
+              <GoogleTranslate />
+
+            </div>
           </nav>
 
           <div className="flex md:hidden items-center space-x-2">
@@ -71,28 +80,34 @@ export default function Navbar() {
       </div>
 
       {isOpen && (
-        <div className="md:hidden border-b border-gray-200 bg-white px-4 pt-2 pb-6 space-y-4">
-          <nav className="flex flex-col space-y-3 pt-2">
-            {navLinks.map((link) => (
-              <NavLink
-                key={link.path}
-                to={link.path}
-                onClick={() => setIsOpen(false)}
-                className={({ isActive }) =>
-                  `px-3 py-2 rounded-md text-base font-medium ${
-                    isActive
-                      ? "bg-indigo-50 text-indigo-600"
-                      : "text-gray-700 hover:bg-gray-50"
-                  }`
-                }
-                end={link.path === "/"}
-              >
-                {link.name}
-              </NavLink>
-            ))}
-          </nav>
-        </div>
-      )}
+  <div className="md:hidden border-b border-gray-200 bg-white px-4 pt-2 pb-6 space-y-4">
+
+    <nav className="flex flex-col space-y-3 pt-2">
+      {navLinks.map((link) => (
+        <NavLink
+          key={link.path}
+          to={link.path}
+          onClick={() => setIsOpen(false)}
+          className={({ isActive }) =>
+            `px-3 py-2 rounded-md text-base font-medium ${
+              isActive
+                ? "bg-indigo-50 text-indigo-600"
+                : "text-gray-700 hover:bg-gray-50"
+            }`
+          }
+          end={link.path === "/"}
+        >
+          {link.name}
+        </NavLink>
+      ))}
+    </nav>
+
+    <div className="pt-3 border-t border-gray-100">
+      <GoogleTranslate />
+    </div>
+
+  </div>
+)}
     </header>
   );
 }
