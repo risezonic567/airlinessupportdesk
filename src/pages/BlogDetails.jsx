@@ -65,7 +65,6 @@ export default function BlogDetails() {
       <article className="min-h-screen bg-white py-10">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
-          {/* Back Link */}
           <Link
             to="/blog"
             className="inline-flex items-center text-md font-semibold text-gray-500 hover:text-indigo-600 transition-colors mb-8"
@@ -116,24 +115,12 @@ export default function BlogDetails() {
             <img src={blog.image} alt={blog.title} className="w-full h-full object-cover" />
           </div>
 
-          {/* Content Render Area */}
           <div
             className="prose prose-indigo max-w-none text-gray-700 text-base leading-relaxed space-y-6"
             dangerouslySetInnerHTML={{ __html: blog.content }}
           />
 
-          {/* Tags */}
-          {/* <div className="mt-10 pt-6 border-t border-gray-100 flex flex-wrap items-center gap-2">
-          <span className="text-md font-semibold text-gray-500 mr-2">Tags:</span>
-          {blog.tags.map((tag) => (
-            <span
-              key={tag}
-              className="text-md bg-gray-100 text-gray-600 px-3 py-1 rounded-lg font-medium hover:bg-gray-200 transition-colors"
-            >
-              #{tag}
-            </span>
-          ))}
-        </div> */}
+   
 
           {/* Prev / Next Pagination */}
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-12 pt-8 border-t border-gray-100">
