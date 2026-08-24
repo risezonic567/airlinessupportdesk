@@ -55,7 +55,7 @@ export default function BlogDetails() {
         <meta charSet="utf-8" />
         <title>{blog.metatitle}</title>
         <meta name="description" content={blog.metadescription}/>
-        <link rel="canonical" href={blog.conanical} />
+        <link rel="canonical" href={blog.canonical} />
        <script type="application/ld+json">
   {JSON.stringify(blog.schema)}
 </script>
