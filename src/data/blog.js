@@ -8608,7 +8608,7 @@ En primer lugar es necesario ponerse en contacto con Ryanair a través de los ca
     category: "Travelocity",
     image: "/images/stephan/Requesting_Ryanair_flight_refund…_202608250100.jpeg",
     author: "Rajshree",
-    date: "August 24, 2026",
+    date: "August 25, 2026",
     readingTime: "5 min read",
     featured: true
   }
