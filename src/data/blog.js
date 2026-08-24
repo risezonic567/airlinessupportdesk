@@ -8821,7 +8821,7 @@ En primer lugar es necesario ponerse en contacto con Ryanair a través de los ca
     date: "August 25, 2026",
     readingTime: "5 min read",
     featured: true
-  }
+  },
 
   {
     id: 48,
@@ -8985,7 +8985,6 @@ En primer lugar es necesario ponerse en contacto con Ryanair a través de los ca
 <h2 class="text-2xl font-semibold">¿Qué deberías tener antes de hacer la llamada?</h2> 
 <p>Antes de intentar comunicarte con un representante de JetBlue que hable español,reúne toda la información que se va a necesitar para tu viaje. Esta información te ayudará a aclarar el problema lo antes posible.</p>
 <p>Deberías tener:</p>
-<p>
 <ol>
 <li>o	El número de la reserva.</li>
 <li>o	El nombre completo del pasajero.</li>
@@ -8994,7 +8993,7 @@ En primer lugar es necesario ponerse en contacto con Ryanair a través de los ca
 <li>o	El número del vuelo si es posible.</li>
 <li>o	La dirección de correo electrónico que usaste al reservar un vuelo.</li>
 <li>o	La información de pago o cualquier otro cambio.</li>
-</ol> </p>
+</ol> 
 <p>Si recibiste un correo electrónico referente a tu cancelación entonces también deberías tenerlo.</p>
 <h2 class="text-2xl font-semibold"><h2 class="text-2xl font-semibold">¿Cómo describirías la situación al agente?</h2>
 
@@ -9004,11 +9003,10 @@ En primer lugar es necesario ponerse en contacto con Ryanair a través de los ca
 <h2 class="text-2xl font-semibold"><h2 class="text-2xl font-semibold">Ayuda para pasajeros en los Estados Unidos</h2>
 <p>Los pasajeros que quieran recibir ayuda independiente pueden encontrar estos servicios de contacto los cuales brindan asesoramiento sobre viajes y reservas.</p>
 <p>Los datos utilizados en este artículo:</p>
-<p>
 <ol>
 <li>(Espana) <a href="tel:34 900 680 866" class="text-blue-600 underline">34 900 680 866(mES)</a><br>.</li>
 <li>(USA)<a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a> </li>
-<li><b>Site</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> </ol></p>
+<li><b>Site</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> </ol>
 <p>Por favor toma en cuenta que estos datos son solamente de un servicio de asistencia independiente y no pueden ser tomados como el número oficial de JetBlue. Para obtener datos oficiales sobre la reserva,la política,los vuelos o los servicios de la compañía deberás visitar el sitio web oficial de JetBlue.</p>
 
 <h2 class="text-2xl font-semibold">Asistencia para pasajeros en España</h2> 
@@ -9034,11 +9032,10 @@ En primer lugar es necesario ponerse en contacto con Ryanair a través de los ca
 <h2 class="text-2xl font-semibold">Conclusión</h2>
 <p>En caso de que necesites hablar con un agente de JetBlue en español será mucho más fácil para ti si tienes toda la información sobre tu reserva preparada de antemano.Describir claramente el problema y tener a mano los detalles de tu vuelo te permitirá discutir los cambios,cancelaciones,el equipaje y los reembolsos de manera más eficiente.</p>
 <p>Para el servicio de asistencia independiente descrito en este artículo puedes utilizar los siguientes números y el sitio web: </p>
-<p>
 <ol>
 <li>(Espana) <a href="tel:34 900 680 866" class="text-blue-600 underline">34 900 680 866(ES)</a><br>.</li>
 <li>(USA) <a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a></li>
-<li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> </ol></p>
+<li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> </ol>
 
 <p>Solo ten presente que estos son números para un servicio de asistencia independiente y para obtener información oficial sobre JetBlue deberías utilizar los métodos de contacto oficiales de esta aerolínea.</p>
 
