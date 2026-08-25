@@ -9351,20 +9351,20 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 <p>En caso de que hayas comprado tu boleto a través de una agencia o un sitio web de terceros las cosas pueden ser diferentes. Según Delta deberás ponerte en contacto con la agencia o con la entidad que haya emitido el boleto para cancelarlo o hacer algún cambio.</p>
 <p>Esto es extremadamente importante ya que la agencia puede tener su propia forma de hacer las cosas y otras condiciones de servicio.</p>
 <p>En caso de que necesites revisar tus opciones de reserva tendrás a la mano: tu código de confirmación, el nombre completo del pasajero y la fecha del vuelo.</p>
-<p><ol>
+<ol>
 <li>(Espana) <a href="tel:34 900 680 866" class="text-blue-600 underline">34 900 680 866(ES)</a><br>.</li>
 <li>(USA)  <a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a></li>
-<li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> </ol></p>
+<li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> </ol>
 
 
 <h2 class="text-2xl font-semibold">Cinco cosas a considerar antes de cancelar tu vuelo</h2>
 <p>Antes de realizar la cancelación hay cinco consideraciones importantes que debes tener en cuenta:</p>
-<p><ol>
+<ol>
 <li>-Asegúrate de si tu boleto es de tipo Básico,Clásico,Extra o reembolsable.</li>
 <li>-Verifica si aún estás dentro del periodo de 24 horas para la cancelación.</li>
 <li>-Saber si te corresponde un reembolso en efectivo o un eCredit.</li>
 <li>-Asegúrate de cancelar antes de la fecha de salida para no perder el valor restante del boleto si aplica.</li>
-<li>-Guarda el correo electrónico o el número de referencia de la cancelación.</li> </ol></p>
+<li>-Guarda el correo electrónico o el número de referencia de la cancelación.</li> </ol>
 <p>Se recomienda también revisar el monto final que se muestra antes de realizar la cancelación. De esta manera estarás al tanto del reembolso o del crédito que recibirás.</p>
 <h2 class="text-2xl font-semibold">Conclusión</h2>
 
