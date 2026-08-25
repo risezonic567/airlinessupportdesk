@@ -1,8 +1,117 @@
 import React from "react";
 import { Mail, Phone, MapPin, Send } from "lucide-react";
+import { Helmet } from "react-helmet";
 
 const ContactUs = () => {
   return (
+   <>
+     <Helmet>
+  <title>
+   Contact Airlines Support Desk | Travel Support Help
+  </title>
+
+  <meta
+    name="description"
+    content="Contact Airlines Support Desk for travel assistance, booking questions, airline support, cancellations, refunds, and other travel-related inquiries"
+  />
+
+  <link
+    rel="canonical"
+    href="https://airlinessupport-desk.com/contact-us"
+  />
+
+  <script type="application/ld+json">
+{`{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://airlinessupport-desk.com/#website",
+      "url": "https://airlinessupport-desk.com/",
+      "name": "Airlines Support Desk",
+      "publisher": {
+        "@id": "https://airlinessupport-desk.com/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://airlinessupport-desk.com/#organization",
+      "name": "Airlines Support Desk",
+      "url": "https://airlinessupport-desk.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://airlinessupport-desk.com/#logo",
+        "url": "https://airlinessupport-desk.com/images/ASD%20Logo.png",
+        "contentUrl": "https://airlinessupport-desk.com/images/ASD%20Logo.png",
+        "caption": "Airlines Support Desk"
+      },
+      "email": "info@risezonic.com",
+      "telephone": "+91-97111-10975",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "RZ11/D, Upper Ground Floor Opp. Palam Metro Station Gate No 3, Palam Dwarka Road",
+        "addressLocality": "Delhi",
+        "postalCode": "110045",
+        "addressCountry": "IN"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97111-10975",
+        "contactType": "customer service",
+        "email": "info@risezonic.com",
+        "availableLanguage": [
+          "English"
+        ]
+      }
+    },
+    {
+      "@type": "ContactPage",
+      "@id": "https://airlinessupport-desk.com/contact-us#webpage",
+      "url": "https://airlinessupport-desk.com/contact-us",
+      "name": "Contact Airlines Support Desk",
+      "description": "Contact Airlines Support Desk for questions, suggestions, travel assistance, and customer support through email, phone, or the contact form.",
+      "isPartOf": {
+        "@id": "https://airlinessupport-desk.com/#website"
+      },
+      "about": {
+        "@id": "https://airlinessupport-desk.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://airlinessupport-desk.com/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://airlinessupport-desk.com/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://airlinessupport-desk.com/contact-us#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://airlinessupport-desk.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Contact Us",
+          "item": "https://airlinessupport-desk.com/contact-us"
+        }
+      ]
+    }
+  ]
+}
+
+
+`}
+</script>
+
+
+</Helmet>
     <section className="bg-gray-50 py-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
@@ -141,6 +250,7 @@ const ContactUs = () => {
         </div>
       </div>
     </section>
+   </>
   );
 };
 

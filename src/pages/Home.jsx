@@ -92,6 +92,165 @@ export default function Home() {
     href="https://airlinessupport-desk.com/"
   />
 
+  <script type="application/ld+json">
+{`{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://airlinessupport-desk.com/#website",
+      "url": "https://airlinessupport-desk.com/",
+      "name": "Airlines Support Desk",
+      "description": "Airline customer support, flight booking assistance, cancellation and refund guides, baggage information, and travel support resources.",
+      "publisher": {
+        "@id": "https://airlinessupport-desk.com/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://airlinessupport-desk.com/#organization",
+      "name": "Airlines Support Desk",
+      "url": "https://airlinessupport-desk.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://airlinessupport-desk.com/#logo",
+        "url": "https://airlinessupport-desk.com/images/ASD%20Logo.png",
+        "contentUrl": "https://airlinessupport-desk.com/images/ASD%20Logo.png",
+        "caption": "Airlines Support Desk"
+      },
+      "email": "info@risezonic.com",
+      "telephone": "+91-97111-10975",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "RZ11/D, Upper Ground Floor Opp. Palam Metro Station Gate No 3, Palam Dwarka Road",
+        "addressLocality": "Delhi",
+        "postalCode": "110045",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://airlinessupport-desk.com/#webpage",
+      "url": "https://airlinessupport-desk.com/",
+      "name": "Airlines Support Desk | Flight & Travel Support",
+      "description": "Get practical airline support for flight bookings, ticket changes, cancellations, refunds, baggage, check-in, and travel-related questions.",
+      "isPartOf": {
+        "@id": "https://airlinessupport-desk.com/#website"
+      },
+      "about": {
+        "@id": "https://airlinessupport-desk.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://airlinessupport-desk.com/#organization"
+      },
+      "inLanguage": "en",
+      "mainEntity": {
+        "@id": "https://airlinessupport-desk.com/#articlelist"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://airlinessupport-desk.com/#articlelist",
+      "name": "Latest Airlines Support Desk Articles",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Travelocity Phone Number Official Customer Service Support Contacts",
+          "url": "https://airlinessupport-desk.com/blog/travelocity-phone-number-Official-customer-service-support-contacts"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Travelocity Customer Care: How to Contact Travelocity Customer Service",
+          "url": "https://airlinessupport-desk.com/blog/travelocity-customer-care-how-to-contact-travelocity-customer-service"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Booking.com Cancellation Policy: Everything You Need to Know About Cancellations, Refunds, and Changes",
+          "url": "https://airlinessupport-desk.com/blog/booking-com-cancellation-policy-everything-you-need-to-know-about-cancellations-refunds-and-changes"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Booking.com Contact Number: Customer Service, Help Centre & Customer Care",
+          "url": "https://airlinessupport-desk.com/blog/booking-com-contact-number-customer-service-help-centre-customer-care"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Travelocity Phone Number: Complete Guide to Customer Service and Contact Options",
+          "url": "https://airlinessupport-desk.com/blog/travelocity-phone-number-complete-guide-to-customer-service-and-contact-options"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Travelocity Customer Care: All about Contact, Support & Help in detail",
+          "url": "https://airlinessupport-desk.com/blog/Travelocity%20Customer%20Care:%20All%20about%20Contact,%20Support%20&%20Help%20in%20detail"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://airlinessupport-desk.com/#faq",
+      "url": "https://airlinessupport-desk.com/#faq",
+      "name": "Airlines Support Desk Frequently Asked Questions",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I contact Airlines Support Desk?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can contact Airlines Support Desk through the contact options provided on the website for assistance with travel-related questions and support."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I change my flight date by phone?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Flight date changes depend on the airline, ticket conditions, and booking terms. Contact the appropriate airline or booking provider for assistance with changing your flight date."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I request a refund?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Refund eligibility depends on the airline, booking provider, fare conditions, and reason for cancellation. Review the applicable cancellation and refund guidance or contact the relevant provider."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is support available in Spanish?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Spanish-language travel support information is available through selected articles and resources on Airlines Support Desk."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://airlinessupport-desk.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://airlinessupport-desk.com/"
+        }
+      ]
+    }
+  ]
+}`}
+</script>
+
+
 </Helmet>
     <div className="min-h-screen bg-gray-50/50">
       

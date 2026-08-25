@@ -1,8 +1,100 @@
 import { Link } from "react-router-dom";
 import { ArrowRight, Compass, ShieldCheck, Zap } from "lucide-react";
+import { Helmet } from "react-helmet";
 
 export default function About() {
   return (
+    <>
+      <Helmet>
+  <title>
+     About Airlines Support Desk | Travel Support & Guides 
+  </title>
+
+  <meta
+    name="description"
+    content="Learn about Airlines Support Desk and our mission to provide practical airline support, booking, cancellation, refund, baggage, and travel guidance"
+  />
+
+  <link
+    rel="canonical"
+    href="https://airlinessupport-desk.com/about"
+  />
+
+  <script type="application/ld+json">
+{`{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://airlinessupport-desk.com/#website",
+      "url": "https://airlinessupport-desk.com/",
+      "name": "Airlines Support Desk",
+      "description": "Your trusted platform for flight bookings, airline assistance, cancellation guides, and travel support information.",
+      "publisher": {
+        "@id": "https://airlinessupport-desk.com/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://airlinessupport-desk.com/#organization",
+      "name": "Airlines Support Desk",
+      "url": "https://airlinessupport-desk.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://airlinessupport-desk.com/#logo",
+        "url": "https://airlinessupport-desk.com/images/ASD%20Logo.png",
+        "contentUrl": "https://airlinessupport-desk.com/images/ASD%20Logo.png",
+        "caption": "Airlines Support Desk"
+      },
+      "email": "support@airlinessupportdesk.com"
+    },
+    {
+      "@type": "AboutPage",
+      "@id": "https://airlinessupport-desk.com/about#webpage",
+      "url": "https://airlinessupport-desk.com/about",
+      "name": "About Airlines Support Desk",
+      "description": "Learn about Airlines Support Desk, our mission, editorial approach, and commitment to providing practical airline and travel support information.",
+      "isPartOf": {
+        "@id": "https://airlinessupport-desk.com/#website"
+      },
+      "about": {
+        "@id": "https://airlinessupport-desk.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://airlinessupport-desk.com/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://airlinessupport-desk.com/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://airlinessupport-desk.com/about#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://airlinessupport-desk.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "About",
+          "item": "https://airlinessupport-desk.com/about"
+        }
+      ]
+    }
+  ]
+}
+
+`}
+</script>
+
+
+</Helmet>
     <div className="min-h-screen bg-gray-50/50 py-12 sm:py-16">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         
@@ -75,5 +167,6 @@ export default function About() {
 
       </div>
     </div>
+    </>
   );
 }
