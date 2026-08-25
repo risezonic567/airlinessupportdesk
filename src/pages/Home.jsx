@@ -77,17 +77,21 @@ export default function Home() {
   return (
     <>
     <Helmet>
-      <title>Meta title: Airline Customer Support & Travel Help | Assistance </title>
-        <meta
+  <title>
+     Airline Customer Support & Travel Help | Assistance 
+  </title>
+
+  <meta
     name="description"
     content="Get airline customer support for bookings, cancellations, refunds, flight changes and travel assistance. Find helpful guides and contact options online."
   />
-    <link
+
+  <link
     rel="canonical"
-    href="https://www.airlinessupport-desk.com/"
+    href="https://airlinessupport-desk.com/"
   />
 
-    </Helmet>
+</Helmet>
     <div className="min-h-screen bg-gray-50/50">
       
       <section className="relative w-full h-[90vh] min-h-[580px] max-h-[850px] overflow-hidden bg-black">
