@@ -9739,7 +9739,7 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 <li>•Maletas perdidas, retrasadas o dañadas.</li>
 <li>•Detalles del check-in.	</li>
 <li>•	Selección o modificación de los asientos.</li>
-<>li>•	Condiciones de viaje.</li>
+<li>•	Condiciones de viaje.</li>
 <li>•	Problemas con las conexiones.</li>
 <li>•	Problemas relacionados con el crédito.</li>
 </ol>
