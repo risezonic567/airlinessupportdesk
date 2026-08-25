@@ -34,7 +34,6 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Categories */}
           <div>
             <h4 className="text-sm font-semibold text-white uppercase tracking-wider mb-4">Categories</h4>
             <ul className="space-y-2 text-sm sm:text-base text-gray-400">
