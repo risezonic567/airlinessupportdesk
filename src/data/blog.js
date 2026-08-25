@@ -9314,13 +9314,13 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 
 <p>Para cancelar un vuelo de Delta Airlines USA tendrás que seguir los siguientes pasos:</p>
 <ol>
-<li>•	Ve a la sección "Mis Viajes" de Delta.</li>
-<li>•	Ubica el boleto que deseas cancelar.</li>
-<li>•	Elige "Necesitas Cancelar?".</li>
-<li>•	Luego haz clic en "Iniciar Cancelación de Vuelo".</li>
-<li>•	Asegúrate de leer las condiciones que aparezcan en la pantalla.</li>
-<li>•	Finalmente cancela el boleto.</li>
-<li>•	Determina si se aplicará un reembolso o un crédito electrónico.</li>
+<li>-Ve a la sección "Mis Viajes" de Delta.</li>
+<li>-Ubica el boleto que deseas cancelar.</li>
+<li>-Elige "Necesitas Cancelar?".</li>
+<li>-Luego haz clic en "Iniciar Cancelación de Vuelo".</li>
+<li>-Asegúrate de leer las condiciones que aparezcan en la pantalla.</li>
+<li>-Finalmente cancela el boleto.</li>
+<li>-Determina si se aplicará un reembolso o un crédito electrónico.</li>
 </ol>
 
 <p>Según Delta los boletos deberían ser cancelados antes de la salida para mantener su valor en caso de que tengan uno. Los boletos no reembolsables que no sean cancelados ni cambiados antes de la salida perderán su valor.</p>
@@ -9340,7 +9340,7 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 <li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> 
 </ol>
 <p>Siempre es recomendable verificar dos veces la información de Delta o del servicio donde hayas reservado tu boleto antes de dar información personal o pagar algo.</p>
-<h2 class="text-2xl font-semibold">¿Qué pasaría si el boleto fuera reembolsable?</h2> 
+<h2> class="text-2xl font-semibold">¿Qué pasaría si el boleto fuera reembolsable?</h2> 
 <p>Sin embargo habrá un escenario distinto si usted tiene un boleto reembolsable. Según Delta Airlines bajo ciertas condiciones existen posibilidades de que los boletos y las tarifas reembolsables sean cancelados antes de la salida y obtener un reembolso al modo de pago original.</p>
 <p>Esto es porque usted tiene que considerar las condiciones exactas que están unidas a su reserva.No todas las tarifas funcionan de manera similar dependiendo del tipo de experiencia y la tarifa que usted elija.</p>
 
@@ -9362,11 +9362,11 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 <h2 class="text-2xl font-semibold">Cinco cosas a considerar antes de cancelar tu vuelo</h2>
 <p>Antes de realizar la cancelación hay cinco consideraciones importantes que debes tener en cuenta:</p>
 <ol>
-<li>-Asegúrate de si tu boleto es de tipo Básico,Clásico,Extra o reembolsable.</li>
-<li>-Verifica si aún estás dentro del periodo de 24 horas para la cancelación.</li>
-<li>-Saber si te corresponde un reembolso en efectivo o un eCredit.</li>
-<li>-Asegúrate de cancelar antes de la fecha de salida para no perder el valor restante del boleto si aplica.</li>
-<li>-Guarda el correo electrónico o el número de referencia de la cancelación.</li>
+<li>Asegúrate de si tu boleto es de tipo Básico,Clásico,Extra o reembolsable.</li>
+<li>Verifica si aún estás dentro del periodo de 24 horas para la cancelación.</li>
+<li>Saber si te corresponde un reembolso en efectivo o un eCredit.</li>
+<li>segúrate de cancelar antes de la fecha de salida para no perder el valor restante del boleto si aplica.</li>
+<li>Guarda el correo electrónico o el número de referencia de la cancelación.</li>
  </ol>
 <p>Se recomienda también revisar el monto final que se muestra antes de realizar la cancelación. De esta manera estarás al tanto del reembolso o del crédito que recibirás.</p>
 <h2 class="text-2xl font-semibold">Conclusión</h2>
@@ -9382,7 +9382,7 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 `,
 
     category: "Travelocity",
-    image: "/images/stephan/Cancel_flight_ticket_and_refunds_202608252257.jpeg ",
+    image: "/images/stephan/Cancel_flight_ticket_and_refunds_202608252257.jpeg",
     author: "Rajshree",
     date: "August 25, 2026",
     readingTime: "5 min read",
