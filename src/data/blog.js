@@ -9581,7 +9581,7 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 </ol>
 <p>recomienda también Se revisar el monto final que se muestra antes de realizar la cancelación. De esta manera estarás al tanto del reembolso o del crédito que recibirás.</p>
 
-<h2 class="text-2xl font-semibold"><h2 class="text-2xl font-semibold">Conclusión</h2>
+<h2> class="text-2xl font-semibold"><h2 class="text-2xl font-semibold">Conclusión</h2>
 <p>La posibilidad de cancelar un vuelo de Delta Airlines USA es una gran manera de minimizar cualquier posible pérdida así como de elegir la variante más conveniente para ti personalmente. La posibilidad de obtener un reembolso o un eCredit dependerá del tipo de tu boleto,el momento de tu cancelación y el hecho de si el vuelo fue cancelado o cambiado por Delta.</p>
 
 <p>En caso de una cancelación voluntaria de un vuelo "Mis Viajes" será la forma más rápida de empezar. Si el vuelo fue cancelado por Delta o ha sufrido un cambio importante entonces asegúrate de entender todas las variantes posibles del reembolso antes de confirmar la reserva alternativa.</p>
