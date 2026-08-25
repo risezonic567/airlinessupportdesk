@@ -16,6 +16,7 @@ import {
   Search,
 } from "lucide-react";
 import { Helmet } from "react-helmet";
+import { HelmetData } from "react-helmet-async";
 
 const slides = [
   {
