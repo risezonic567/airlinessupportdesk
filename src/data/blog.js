@@ -9337,7 +9337,8 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 <ol>
 <li>(Espana) <a href="tel:34 900 680 866" class="text-blue-600 underline">34 900 680 866(ES)</a><br>.</li>
 <li>(USA)  <a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a></li>
-<li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> </ol>
+<li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> 
+</ol>
 <p>Siempre es recomendable verificar dos veces la información de Delta o del servicio donde hayas reservado tu boleto antes de dar información personal o pagar algo.</p>
 <h2 class="text-2xl font-semibold">¿Qué pasaría si el boleto fuera reembolsable?</h2> 
 <p>Sin embargo habrá un escenario distinto si usted tiene un boleto reembolsable. Según Delta Airlines bajo ciertas condiciones existen posibilidades de que los boletos y las tarifas reembolsables sean cancelados antes de la salida y obtener un reembolso al modo de pago original.</p>
@@ -9354,7 +9355,8 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 <ol>
 <li>(Espana) <a href="tel:34 900 680 866" class="text-blue-600 underline">34 900 680 866(ES)</a><br>.</li>
 <li>(USA)  <a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a></li>
-<li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> </ol>
+<li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> 
+</ol>
 
 
 <h2 class="text-2xl font-semibold">Cinco cosas a considerar antes de cancelar tu vuelo</h2>
@@ -9364,7 +9366,8 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 <li>-Verifica si aún estás dentro del periodo de 24 horas para la cancelación.</li>
 <li>-Saber si te corresponde un reembolso en efectivo o un eCredit.</li>
 <li>-Asegúrate de cancelar antes de la fecha de salida para no perder el valor restante del boleto si aplica.</li>
-<li>-Guarda el correo electrónico o el número de referencia de la cancelación.</li> </ol>
+<li>-Guarda el correo electrónico o el número de referencia de la cancelación.</li>
+ </ol>
 <p>Se recomienda también revisar el monto final que se muestra antes de realizar la cancelación. De esta manera estarás al tanto del reembolso o del crédito que recibirás.</p>
 <h2 class="text-2xl font-semibold">Conclusión</h2>
 
