@@ -83,7 +83,7 @@ export default function Home() {
 
   <meta
     name="description"
-    content="Get airline customer support for bookings, cancellations, refunds, flight changes and travel assistance. Find helpful guides and contact options online."
+    content="Get airline customer support for bookings, cancellations, refunds, flight changes and travel assistance. Find helpful guides and contact options online"
   />
 
   <link
