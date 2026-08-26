@@ -10277,7 +10277,7 @@ Il numero telefonico 39800974732 (IT) o 18886961528 (US) potrebbe essere trovato
 `,
 
     category: "Travelocity",
-    image: "public/images/stephan/Passengers_viewing_airport_signage_202608270116.jpeg",
+    image: "/images/stephan/Passengers_viewing_airport_signage_202608270116.jpeg",
     author: "Rajshree",
     date: "August 26, 2026",
     readingTime: "5 min read",
