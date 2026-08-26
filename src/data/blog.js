@@ -10224,6 +10224,7 @@ Il numero telefonico 39800974732 (IT) o 18886961528 (US) potrebbe essere trovato
 <p>También la dirección web:</p>
 <ol>
 <li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> 
+</ol>
 <p>Se recomienda que antes de compartir cualquier información o sus datos de la tarjeta de crédito se asegure de que el número que está utilizando sea efectivamente el de United Airlines.</p>
 <h2 class="text-2xl font-semibold">Cuando se hace necesario hacer una llamada?</h2> 
 <p>Existen numerosos casos en los cuales una persona puede requerir algún tipo de ayuda. Quizás el más frecuente es preguntar por alguna reserva existente. Tener un número de confirmación hará la comunicación más fácil y ayudará a encontrar los datos del viaje más rápido.</p>
@@ -10235,7 +10236,6 @@ Il numero telefonico 39800974732 (IT) o 18886961528 (US) potrebbe essere trovato
 <p>En caso de que el horario del vuelo haya sido cambiado o cancelado por la propia aerolínea el pasajero puede necesitar alguna información acerca de las alternativas.</p>
 <h2 class="text-2xl font-semibold">Información que se debe preparar con anticipación</h2> 
 <p>Para hacer la conversación telefónica más efectiva,reúne con anticipación la información relacionada con tu viaje. Generalmente es útil tener a mano:</p>
-<p>
 <ol>
 <li>•	El nombre completo del pasajero.</li>
 <li>• El número de confirmación o de reserva.</li>
@@ -10265,6 +10265,7 @@ Il numero telefonico 39800974732 (IT) o 18886961528 (US) potrebbe essere trovato
 <p>También la dirección web:</p>
 <ol>
 <li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> 
+</ol>
 <p>Por favor toma en cuenta que esta información se da únicamente para los fines de esta guía y no debe considerarse como los números oficiales de United Airlines.</p>
 <h2 class="text-2xl font-semibold">Conclusión</h2>
 <p>La capacidad de encontrar rápidamente el número telefónico de United Airlines en Estados Unidos podría ser útil si tienes que resolver un problema relacionado con tu viaje. Pero además de tener el número deberías considerar la confiabilidad de la fuente y utilizar recursos de confianza.</p>
