@@ -9524,7 +9524,7 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
      <p>Las razones para cancelar tu viaje pueden ser muchas:una crisis familiar,problemas laborales,problemas personales o simplemente cambios en tu horario.En caso de que necesites cancelar un vuelo con Delta Airlines USA es crucial que averigües los términos de tu boleto antes de proceder con el procedimiento porque los resultados pueden ser un reembolso,un crédito electrónico o incluso una reducción de la tarifa para ciertos tipos de boletos.</p>
      <p>La mayoría de las cancelaciones de Delta Air Lines se pueden realizar desde la sección "Mis viajes".</p>
 
-<h2> class="text-2xl font-semibold">Cancelación de un vuelo de Delta Airlines en los Estados Unidos</h2> 
+<h2 class="text-2xl font-semibold">Cancelación de un vuelo de Delta Airlines en los Estados Unidos</h2> 
 <p>El procedimiento es bastante sencillo. Primero asegúrate de tener toda la información referente a tu reserva.</p>
 
 <p>Para cancelar un vuelo de Delta Airlines USA tendrás que seguir los siguientes pasos:</p>
@@ -9540,11 +9540,11 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 
 <p>Según Delta los boletos deberían ser cancelados antes de la salida para mantener su valor en caso de que tengan uno. Los boletos no reembolsables que no sean cancelados ni cambiados antes de la salida perderán su valor.</p>
 
-<h2> class="text-2xl font-semibold">¿Se puede cancelar un vuelo de Delta dentro de las 24 horas?</h2> 
+<h2 class="text-2xl font-semibold">¿Se puede cancelar un vuelo de Delta dentro de las 24 horas?</h2> 
 <p>Sí existe una política de cancelación sin riesgo de 24 horas para algunos boletos elegibles comprados a Delta,la cual incluye las reservas realizadas en Delta.com y a través de la aplicación móvil Fly Delta.</p>
 <p>Bajo esta política si se cumplen todas las condiciones se puede recuperar su dinero del medio de pago original si cancela el boleto dentro de las 24 horas después de comprarlo.No se le cobrará ninguna tarifa de cancelación.</p>
 <p>En este caso si usted recientemente reservo un vuelo y se dio cuenta de que cometió un error en cuanto a las fechas,el destino o la información del pasajero,se recomienda que averigüe si su reserva se encuentra bajo esta política de cancelación.</p>
-<h2> class="text-2xl font-semibold">¿Qué se hace con un boleto no reembolsable?</h2>
+<h2 class="text-2xl font-semibold">¿Qué se hace con un boleto no reembolsable?</h2>
 <p>Los boletos no reembolsables, entre los cuales se encuentran los boletos Basic y Classic, no son automáticamente convertidos en dinero por la aerolínea,en caso de que un cliente cancele voluntariamente su viaje.</p>
 <p>En este caso Delta puede ofrecer un crédito electrónico luego de deducir los posibles cargos por cancelación. Los términos dependerán de la tarifa,la ruta y la fecha de compra. Según Delta ciertos productos Delta Main Classic y superiores no requerirán cargos por cancelación para ciertos viajes con origen en los Estados Unidos. Por otro lado las tarifas Basic podrían estar sujetas a términos adicionales.</p>
 <p>Puedes estar preparado con esta información cuando busques ayuda con tu reserva:</p>
@@ -9554,14 +9554,14 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 <li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> 
 </ol>
 <p>Siempre es recomendable verificar dos veces la información de Delta o del servicio donde hayas reservado tu boleto antes de dar información personal o pagar algo.</p>
-<h2> class="text-2xl font-semibold">¿Qué pasaría si el boleto fuera reembolsable?</h2>
+<h2 class="text-2xl font-semibold">¿Qué pasaría si el boleto fuera reembolsable?</h2>
 <p>Sin embargo habrá un escenario distinto si usted tiene un boleto reembolsable. Según Delta Airlines bajo ciertas condiciones existen posibilidades de que los boletos y las tarifas reembolsables sean cancelados antes de la salida y obtener un reembolso al modo de pago original.</p>
 <p>Esto es porque usted tiene que considerar las condiciones exactas que están unidas a su reserva.No todas las tarifas funcionan de manera similar dependiendo del tipo de experiencia y la tarifa que usted elija.</p>
-<h2> class="text-2xl font-semibold">¿Qué pasaría si Delta cancelara o hiciera algún cambio en su horario de vuelo?</h2>
+<h2 class="text-2xl font-semibold">¿Qué pasaría si Delta cancelara o hiciera algún cambio en su horario de vuelo?</h2>
 <p>Una cancelación hecha por el pasajero no implica una cancelación por parte de la compañía aérea.En caso de que Delta cancele su vuelo o en caso de cambios importantes en su itinerario todavía existen otras posibilidades.</p>
 <p>Según Delta,en caso de cancelación o un retraso importante ellos tratarían de reorganizarle el vuelo.En caso de que la alternativa que se le ofrece al pasajero no sea conveniente usted puede decidir cancelar el vuelo reprogramado y recibir un reembolso de la parte no utilizada del boleto y otros servicios pagados por adelantado.</p>
 <p>En los vuelos nacionales de Delta los cambios en los horarios de salida o llegada de más de tres horas se consideran importantes.</p>
-<h2> class="text-2xl font-semibold">¿Y si hiciste tu reserva con la ayuda de una agencia?</h2>
+<h2 class="text-2xl font-semibold">¿Y si hiciste tu reserva con la ayuda de una agencia?</h2>
 <p>En caso de que hayas comprado tu boleto a través de una agencia o un sitio web de terceros las cosas pueden ser diferentes. Según Delta deberás ponerte en contacto con la agencia o con la entidad que haya emitido el boleto para cancelarlo o hacer algún cambio.</p>
 <p>Esto es extremadamente importante ya que la agencia puede tener su propia forma de hacer las cosas y otras condiciones de servicio.</p>
 <p>En caso de que necesites revisar tus opciones de reserva tendrás a la mano: tu código de confirmación, el nombre completo del pasajero y la fecha del vuelo.</p>
@@ -9570,7 +9570,7 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 <li>(USA)  <a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a></li>
 <li><b>Sitio</b>: <a href="http://airlinessupport-desk.com" class="text-blue-600 underline">airlinessupport-desk.com</a></li> 
 </ol>
-<h2> class="text-2xl font-semibold">Cinco cosas a considerar antes de cancelar tu vuelo</h2>
+<h2 class="text-2xl font-semibold">Cinco cosas a considerar antes de cancelar tu vuelo</h2>
 <p>Antes de realizar la cancelación hay cinco consideraciones importantes que debes tener en cuenta:</p>
 <ol>
 <li>•Asegúrate de si tu boleto es de tipo Básico,Clásico,Extra o reembolsable.	</li>
@@ -9581,7 +9581,7 @@ Tuttavia prima di mettersi in contatto con un specialista è consigliato acceder
 </ol>
 <p>recomienda también Se revisar el monto final que se muestra antes de realizar la cancelación. De esta manera estarás al tanto del reembolso o del crédito que recibirás.</p>
 
-<h2> class="text-2xl font-semibold"><h2 class="text-2xl font-semibold">Conclusión</h2>
+<h2 class="text-2xl font-semibold"><h2 class="text-2xl font-semibold">Conclusión</h2>
 <p>La posibilidad de cancelar un vuelo de Delta Airlines USA es una gran manera de minimizar cualquier posible pérdida así como de elegir la variante más conveniente para ti personalmente. La posibilidad de obtener un reembolso o un eCredit dependerá del tipo de tu boleto,el momento de tu cancelación y el hecho de si el vuelo fue cancelado o cambiado por Delta.</p>
 
 <p>En caso de una cancelación voluntaria de un vuelo "Mis Viajes" será la forma más rápida de empezar. Si el vuelo fue cancelado por Delta o ha sufrido un cambio importante entonces asegúrate de entender todas las variantes posibles del reembolso antes de confirmar la reserva alternativa.</p>
