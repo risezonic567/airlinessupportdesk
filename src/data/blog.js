@@ -10516,7 +10516,7 @@ Telephone:<a href="Tel:+39800974732 o 18886961528" class="text-blue-600 underlin
 <li>Eventuale metodo di pagamento per costi aggiuntivi
 </li>
 </ul>
-<p>Avere queste informazioni a portata di mano rende la procedura più veloce.</p>
+<p>Avere queste informazioni  portata di mano rende la procedura più veloce.</p>
 <h2 class="text-2xl font-semibold">Procedura passo dopo passo per modificare il volo Volotea
  </h2>
  <p><b>1. Accedi alla tua prenotazione</b></p>
