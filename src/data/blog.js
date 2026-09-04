@@ -14106,7 +14106,7 @@ Numero di cellulare: <a href="tel:+39-800-974-732" class="text-blue-600 underlin
 <p>In base alle circostanze potrebbero esserci delle soluzioni che il passeggero potrebbe prendere,come un cambio di prenotazione o la richiesta di un rimborso in base ai termini applicabili.</p>
 <h2 class="text-xl font-semibold">4. Quanto tempo ci vorrà prima che arrivi il mio rimborso?</h2>
 <p>Il tempo dipende da come viene richiesto il rimborso e anche dal processo. Anche dopo che il rimborso è stato approvato dipenderà dal sistema di pagamento utilizzato.</p>
-<p>Nel caso in cui ci sia un caso di assistenza aperta è consigliato che il passeggero conservi il numero del caso e segua l'andamento della sua richiesta.</p>
+<p>Nel caso in cui ci sia un caso di assistenza aperta è consigliato che il passeggero conservi il numero del caso e segua l'andamento della su richiesta.</p>
 <h2 class="text-xl font-semibold">5. E cosa succede se il mio biglietto è stato acquistato tramite un intermediario?</h2>
 <p>Quando la prenotazione non è stata effettuata direttamente dalla compagnia aerea ma tramite un intermediario,come un'agenzia di viaggi,il processo può differire da quello descritto sopra per la Wizz Air.</p>
 <p>In questo caso la prima cosa da fare è controllare i termini e le condizioni dell'intermediario per capire a chi rivolgersi per la richiesta di rimborso e come farlo. Avere il codice della prenotazione e la conferma dell'acquisto semplificherà la procedura.</p>
