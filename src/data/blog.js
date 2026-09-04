@@ -13416,7 +13416,7 @@ La corrispondenza che avete ricevuto riguardo alla cancellazione o al ritardo.
 </p>
 <h2 class="text-2xl font-semibold">Conclusione</h2>
 <p>
-Ottenere un rimborso da easyJet Italia può risultare difficile soprattutto nel caso in cui il tuo volo venga cancellato all'improvviso oppure ti ritrovi a dover sostenere costi aggiuntivi.La prima cosa da fare è determinare il tipo di rimborso che stai richiedendo;potrebbe trattarsi di un rimborso del biglietto,un rimborso delle spese o un risarcimento.
+ un rimborso da easyJet Italia può risultare difficile soprattutto nel caso in cui il tuo volo venga cancellato all'improvviso oppure ti ritrovi a dover sostenere costi aggiuntivi.La prima cosa da fare è determinare il tipo di rimborso che stai richiedendo;potrebbe trattarsi di un rimborso del biglietto,un rimborso delle spese o un risarcimento.
 </p>
 <p>Conservare sempre tutti i tuoi documenti,verifica la tua prenotazione online e utilizza il servizio clienti più adatto al tuo caso specifico.Un'azione rapida e la fornitura di informazioni adeguate semplificheranno molto la procedura di richiesta.</p>
 
