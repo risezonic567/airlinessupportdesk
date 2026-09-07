@@ -14773,7 +14773,7 @@ Con queste informazioni a portata di mano possono trovare rapidamente la tua pre
 
 </p>
 
-<h2 class="text-2xl font-semibold"> Perché è meglio richiedere una modifica il prima possibile?</h2>
+<h2 class="text-2xl font-semibold"> Perché meglio richiedere una modifica il prima possibile?</h2>
 <p> Se avessi saputo di un cambiamento nei tuoi piani di viaggio è consigliato non aspettare l'ultimo momento. Le opzioni disponibili potrebbero cambiare e i voli disponibili potrebbero diventare più costosi. Un contatto precoce con la Neos Airlines ti permette di prendere in considerazione tutte le opzioni disponibili.
 
 </p>
