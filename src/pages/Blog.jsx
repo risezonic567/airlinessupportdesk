@@ -43,11 +43,14 @@ export default function Blog() {
   };
 
   const filteredBlogs = useMemo(() => {
-    return blogPosts.filter((post) => {
+  return blogPosts
+    .filter((post) => {
       const matchesCategory =
-        selectedCategory === "All" || post.category.toLowerCase() === selectedCategory.toLowerCase();
+        selectedCategory === "All" ||
+        post.category.toLowerCase() === selectedCategory.toLowerCase();
 
       const q = searchQuery.toLowerCase().trim();
+
       const matchesSearch =
         !q ||
         post.title.toLowerCase().includes(q) ||
@@ -56,8 +59,9 @@ export default function Blog() {
         post.tags.some((tag) => tag.toLowerCase().includes(q));
 
       return matchesCategory && matchesSearch;
-    });
-  }, [selectedCategory, searchQuery]);
+    })
+    .sort((a, b) => Number(b.id) - Number(a.id));
+}, [selectedCategory, searchQuery]);
 
   return (
     <>
