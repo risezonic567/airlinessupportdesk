@@ -17,6 +17,7 @@ import {
 } from "lucide-react";
 import { Helmet } from "react-helmet";
 import { HelmetData } from "react-helmet-async";
+import Testimonials from "../components/Testimonials";
 
 const slides = [
   {
@@ -423,6 +424,7 @@ export default function Home() {
         <Faq/>
 
         <Newsletter />
+        {/* <Testimonials/> */}
 
       </div>
     </div>
