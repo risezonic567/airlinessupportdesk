@@ -16535,7 +16535,7 @@ Se le informazioni che fornisci sono precise, sarà più facile individuare la p
     },
 
 
-    excerpt: "",
+    excerpt: "Quando si viaggia con Wizz Air possono esserci problemi con la vostra prenotazione,cambi di volo,cancellazioni,rimborso o reclamo bagagli. In questi momenti conoscere come raggiungere il servizio clienti può",
 
     content: `
     <p><b>Sito web:</b> <a href="https://airlinessupport-desk.com/" class="text-blue-600 underline">https://airlinessupport-desk.com/</a></br>
