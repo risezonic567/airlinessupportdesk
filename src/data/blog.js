@@ -16823,8 +16823,115 @@ Nel caso in cui non siate sicuri di cosa fare successivamente potete sempre cont
 
     schema:
     {
+      "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://airlinessupport-desk.com/#cancellare-volo-ita-airways",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://airlinessupport-desk.com/"
+      },
+      "headline": "Cancellare Volo ITA Airways: Tutti i Numeri Utili per i Passeggeri",
+      "description": "Guida completa per capire come cancellare un volo ITA Airways, verificare le condizioni della tariffa, richiedere un rimborso e contattare l'assistenza.",
+      "inLanguage": "it-IT",
+      "author": {
+        "@type": "Organization",
+        "name": "Airlines Support Desk",
+        "url": "https://airlinessupport-desk.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Airlines Support Desk",
+        "url": "https://airlinessupport-desk.com/"
+      },
+      "about": {
+        "@type": "Airline",
+        "name": "ITA Airways"
+      },
+      "keywords": [
+        "cancellare volo ITA Airways",
+        "annullare volo ITA Airways",
+        "rimborso ITA Airways",
+        "assistenza ITA Airways",
+        "numero telefono ITA Airways",
+        "cancellazione prenotazione ITA Airways"
+      ],
+      "articleSection": [
+        "Come annullare un volo ITA Airways",
+        "Numeri utili per annullare i voli ITA Airways",
+        "Rimborso dopo l'annullamento",
+        "Cancellazione del volo da parte di ITA Airways",
+        "Informazioni necessarie per la cancellazione",
+        "Biglietti acquistati tramite agenzia",
+        "FAQ"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://airlinessupport-desk.com/#faq-cancellare-volo-ita-airways",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "È possibile annullare un volo di ITA Airways online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, quando le condizioni della tariffa lo consentono. È possibile utilizzare gli strumenti di gestione della prenotazione disponibili online per verificare le opzioni di cancellazione e rimborso."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quali numeri utilizzare per avere aiuto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I numeri indicati in questa guida sono 39800974732 per l'Italia e 18886961528 per gli Stati Uniti. Prima di utilizzare questi contatti è consigliabile verificare i recapiti aggiornati sui canali ufficiali di ITA Airways."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "È possibile ricevere un rimborso se decido di annullare il mio biglietto da solo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La possibilità di ottenere un rimborso dipende dal tipo di tariffa acquistata e dalle condizioni applicabili al biglietto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cosa succede se ITA Airways annulla il mio volo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In caso di cancellazione da parte della compagnia aerea, le opzioni disponibili possono includere una soluzione di viaggio alternativa oppure il rimborso, in base alla situazione e alle condizioni applicabili."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "È possibile annullare solo il biglietto di una persona?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In alcune situazioni può essere possibile gestire separatamente uno o più passeggeri della stessa prenotazione. Per richieste specifiche può essere necessario contattare l'assistenza."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quali documenti devo avere prima di contattare l'assistenza?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È utile avere a disposizione il codice PNR, il numero del biglietto, il cognome del passeggero, la data e il numero del volo, gli aeroporti di partenza e arrivo e l'indirizzo email utilizzato per la prenotazione."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Se ho comprato il biglietto tramite un'agenzia posso chiedere il rimborso direttamente a ITA Airways?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In alcune circostanze la richiesta di rimborso deve essere gestita dall'agenzia di viaggio o dall'intermediario che ha emesso il biglietto."
+          }
+        }
+      ]
+    }
+  ]
      
-  
+
 
     },
 
@@ -16936,20 +17043,10 @@ Io suggerisco di consultare i canali ufficiali di <a href="https://airlinessuppo
 
 
 
-
-
-
-
-
-
-
-
-
-
 `,
 
     category: "Travelocity",
-    image: "/images/tanisha/ChatGPT Image Sep 16, 2026, 12_05_03 PM.png",
+    image: "/images/Soniya/Itasep16.jpeg",
     author: "Rajshree",
     date: "September 16, 2026",
     readingTime: "5 min read",
