@@ -17947,7 +17947,7 @@ En caso de que tu viaje sea sencillo y las fechas estén fijas el proceso de res
 
    `,
     category: "Travelocity",
-    image: "//images/blog/lberia.jpeg",
+    image: "/images/blog/Passenger_booking_flight_on_phone_20260920001915.jpeg",
     author: "Rajshree",
     date: "20 September, 2026",
     readingTime: "5 min read",
