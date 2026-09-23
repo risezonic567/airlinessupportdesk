@@ -19001,7 +19001,7 @@ USA: tel:<a href="tel:+1-8886961528" class="text-blue-600 underline">+1-88869615
 <p><b>Posso ottenere un rimborso dopo aver annullato la prenotazione?</b></p>
 <p>Il rimborso può essere disponibile non sempre. Dipende dalle condizioni del biglietto e dalle circostanze dell'annullamento.</p>
 <p><b>Cosa devo avere con me per annullare la prenotazione?</b></p>
-<p>Avere il codice prenotazione, il nome del passeggero, i dettagli del volo e l'indirizzo email associato alla prenotazione è utile.</p>
+<p>Avere il codice prenotazione, il nome del passeggero,  dettagli del volo e l'indirizzo email associato alla prenotazione è utile.</p>
 <p><b>Come posso contattare il servizio di assistenza per l'annullamento?</b></p>
 <p>I numeri di telefono per l'assistenza sono il 39800974732 (Italia) e il 18886961528 (USA). Per chiamare l'assistenza è necessario prima preparare il codice prenotazione.</p>
 <p><b>Cosa succede in caso di cancellazione di un volo Neos?
