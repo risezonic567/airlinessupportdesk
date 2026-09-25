@@ -19795,9 +19795,9 @@ Posso cancellare un volo solo per una persona?
 <h2 class="text-2xl font-semibold">¿Por qué es necesario identificar el número apropiado?</h2>
  <p>Al buscar el número de contacto de British Airways España uno puede encontrar varios números en Internet.Sin embargo se debe tener en cuenta que todos estos números,encontrados en algunos sitios de terceros,no siempre son relevantes o correctos.</p>
 <ol>
-<li><a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a>(USA)</li>
-<li><a href="tel:+34900680866" class="text-blue-600 underline">+34900680866</a>(ES) </li>
-<li><a href="https://airlinessupport-desk.com/" class="text-blue-600 underline">airlinessupport-desk.com/</a></li>
+<li>USA<a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a>(USA)</li>
+<li>España<a href="tel:+34900680866" class="text-blue-600 underline">+34900680866</a>(ES) </li>
+<li>Sitio<a href="https://airlinessupport-desk.com/" class="text-blue-600 underline">airlinessupport-desk.com/</a></li>
 </ol>
 <p>Para las aerolíneas internacionales puede ocurrir que se utilicen diferentes números de teléfono dependiendo del país donde operen o el tipo de asistencia que requieran los pasajeros.</p>
 <p>Es por eso que antes de realizar una llamada se recomienda revisar la información de contacto directamente en el sitio web oficial de British Airways.</p>
@@ -19818,9 +19818,9 @@ Posso cancellare un volo solo per una persona?
 <p>No existe un momento universal en el que sea conveniente para todos los casos. Si está seguro de que necesita cambiar su viaje con anticipación entonces debe considerar las posibilidades que tiene hasta el día de su salida.</p>
 <p>Si recibe un aviso de cambio o cancelación primero debe estudiar toda la información proporcionada por British Airways.En este mensaje habrá instrucciones sobre cómo actuar. También puede utilizar los puntos de asistencia disponibles en el aeropuerto.</p>
 <ol>
-<li><a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a>(USA)</li>
-<li><a href="tel:+34900680866" class="text-blue-600 underline">+34900680866</a>(ES) </li>
-<li><a href="https://airlinessupport-desk.com/" class="text-blue-600 underline">airlinessupport-desk.com/</a></li>
+<li>USA<a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a>(USA)</li>
+<li>España<a href="tel:+34900680866" class="text-blue-600 underline">+34900680866</a>(ES) </li>
+<li>sitio<a href="https://airlinessupport-desk.com/" class="text-blue-600 underline">airlinessupport-desk.com/</a></li>
 </ol>
 <h2 class="text-2xl font-semibold"> ¿Y si mi vuelo involucra a otra aerolínea?</h2>
 <p>Los vuelos internacionales siempre implican al menos un punto de conexión y algunos vuelos pueden ser realizados por otra aerolínea. </p>
@@ -19837,9 +19837,9 @@ Posso cancellare un volo solo per una persona?
 <h2 class="text-2xl font-semibold"> Una buena preparación hace que los viajes sean fáciles.</h2>
 <p>Es útil guardar los datos de contacto de British Airways España si quieres aclarar alguna duda acerca de tu viaje.Sin embargo lo más importante que guardar los datos de contacto es asegurarte de que la información que obtengas sea confiable.</p>
 <ol>
-<li><a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a>(USA)</li>
-<li><a href="tel:+34900680866" class="text-blue-600 underline">+34900680866</a>(ES) </li>
-<li><a href="https://airlinessupport-desk.com/" class="text-blue-600 underline">airlinessupport-desk.com/</a></li>
+<li>USA<a href="tel:+18888434146" class="text-blue-600 underline">+18888434146</a>(USA)</li>
+<li>España<a href="tel:+34900680866" class="text-blue-600 underline">+34900680866</a>(ES) </li>
+<li>sitio<a href="https://airlinessupport-desk.com/" class="text-blue-600 underline">airlinessupport-desk.com/</a></li>
 </ol>
 <p>Antes de tu viaje es una buena idea guardar todos los documentos importantes y los números de seguimiento. Si algo sale mal podrás pedir ayuda más rápido porque tendrás toda la información necesaria.</p>
 <p>Un viaje internacional puede requerir mucha información diferente pero la posibilidad de conseguir ayuda en caso de necesidad hará que el viaje sea mucho más fácil.</p>
