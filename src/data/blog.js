@@ -18275,7 +18275,7 @@ Numero di cellulare: <a href="tel:+39-800974732" class="text-blue-600 underline"
     category: "Travelocity",
     image: "/images/blog/Airline_assistant_helping_passenger_20260922005528.jpeg",
     author: "Rajshree",
-    date: "20 September, 2026",
+    date: "21 September, 2026",
     readingTime: "5 min read",
     featured: true
   },
@@ -19851,7 +19851,7 @@ Posso cancellare un volo solo per una persona?
     category: "Travelocity",
     image: "/images/blog/Passengers_viewing_phone_in_airport_20260925142438.jpg",
     author: "Rajshree",
-    date: "20 September, 2026",
+    date: "25 September, 2026",
     readingTime: "5 min read",
     featured: true
   },
