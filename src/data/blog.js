@@ -23974,6 +23974,7 @@ USA: <a href="tel:+1-8886961528" class="text-blue-600 underline">+1-8886961528</
     {
     id: 121,
 
+    
     slug: "numero-telefonico-volotea-italia-come-contattare-i-servizi-per-i-passeggeri",
     canonical: "https://www.airlinessupport-desk.com/blog/numero-telefonico-volotea-italia-come-contattare-i-servizi-per-i-passeggeri",
     title: "Numero telefonico Volotea Italia: Come contattare i servizi per i passeggeri",
