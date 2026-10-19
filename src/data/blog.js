@@ -26444,9 +26444,6 @@ USA: <a href="tel:+1-8886961528" class="text-blue-600 underline">+1-8886961528</
 
 {
     id: 133,
-
-    
-
     
     slug: "wizz-air-italia-customer-support-come-contattare-l-assistenza-per-problemi-con-il-volo",
     canonical: "https://www.airlinessuport-desk.com/blog/wizz-air-italia-customer-support-come-contattare-l-assistenza-per-problemi-con-il-volo",
