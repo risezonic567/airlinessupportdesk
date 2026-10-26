@@ -29189,14 +29189,14 @@ De todas formas sería mejor que revises nuevamente las condiciones del transpor
 Esto incluye:</p>
 <p>
 Ol>
-<li>Número de confirmación de su reserva.</li>
-<li>Nombre del pasajero.</li>
-<li>Fecha original de salida.</li>
-<li>Número del vuelo.</li>
-<li>Lugar de salida y destino.</li>
-<li>Fecha que necesita para su nueva reserva.</li>
-<li>La hora si hay alguna preferencia.</li>
-<li>Información sobre otros pasajeros en esta reserva.</li>
+<li>.Número de confirmación de su reserva.</li>
+<li>.Nombre del pasajero.</li>
+<li>.Fecha original de salida.</li>
+<li>.Número del vuelo.</li>
+<li>.Lugar de salida y destino.</li>
+<li>.Fecha que necesita para su nueva reserva.</li>
+<li>.La hora si hay alguna preferencia.</li>
+<li>.Información sobre otros pasajeros en esta reserva.</li>
 </ol>
 </p>
 <p>En caso de varios viajeros usted tiene que especificar si quiere cambiar todas las reservas o la de un individuo. </p>
