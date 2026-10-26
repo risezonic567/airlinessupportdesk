@@ -29188,7 +29188,7 @@ De todas formas sería mejor que revises nuevamente las condiciones del transpor
 <p>
 Esto incluye:</p>
 <p>
-Ol>
+<Ol>
 <li>.Número de confirmación de su reserva.</li>
 <li>.Nombre del pasajero.</li>
 <li>.Fecha original de salida.</li>
