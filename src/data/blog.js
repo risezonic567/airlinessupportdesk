@@ -29900,6 +29900,18 @@ También es importante que conserves los detalles de los términos de la tarifa.
 
 
 
+   `,
+
+    category: "Travelocity",
+    image: "/images/blog/Businessman_and_assistant_discus…_830b7734.jpg",
+    author: "Rajshree",
+    date: "October 29, 2026",
+    readingTime: "5 min read",
+    featured: true
+  },
+
+
+
 
 ];
 
