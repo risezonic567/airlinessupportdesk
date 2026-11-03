@@ -1,6 +1,7 @@
-import { useParams, Link } from "react-router-dom";
+import { useParams, useSearchParams, Link } from "react-router-dom";
 import { blogPosts } from "../data/blog";
 import BlogCard from "../components/BlogCard";
+import { findBlogBySlug, getBlogPath } from "../utils/blogRoutes";
 
 import {
   Calendar,
@@ -18,6 +19,8 @@ import { Helmet } from "react-helmet-async";
 
 export default function BlogDetails() {
   const { slug } = useParams();
+  const [searchParams] = useSearchParams();
+  const articleId = searchParams.get("id");
 
   // ==========================================
   // SORT BLOGS BY ID
@@ -31,11 +34,8 @@ export default function BlogDetails() {
   // ==========================================
   // FIND CURRENT BLOG
   // ==========================================
-  const blogIndex = sortedBlogs.findIndex(
-    (post) => post.slug === slug
-  );
-
-  const blog = sortedBlogs[blogIndex];
+  const blog = findBlogBySlug(slug, articleId);
+  const blogIndex = sortedBlogs.indexOf(blog);
 
   // ==========================================
   // 404 GUARD
@@ -255,7 +255,7 @@ export default function BlogDetails() {
 
             {prevBlog ? (
               <Link
-                to={`/blog/${prevBlog.slug}`}
+                to={getBlogPath(prevBlog)}
                 className="p-4 border border-gray-100 rounded-2xl hover:border-indigo-200 hover:shadow-md transition-all flex flex-col group"
               >
                 <span className="text-md text-gray-500 flex items-center mb-1">
@@ -277,7 +277,7 @@ export default function BlogDetails() {
 
             {nextBlog ? (
               <Link
-                to={`/blog/${nextBlog.slug}`}
+                to={getBlogPath(nextBlog)}
                 className="p-4 border border-gray-100 rounded-2xl hover:border-indigo-200 hover:shadow-md transition-all flex flex-col items-end text-right group ml-auto w-full"
               >
                 <span className="text-md text-gray-500 flex items-center mb-1">

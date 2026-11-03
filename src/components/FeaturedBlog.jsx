@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { Clock, Calendar, ArrowRight, Sparkles } from "lucide-react";
+import { getBlogPath } from "../utils/blogRoutes";
 
 export default function FeaturedBlog({ blog }) {
   if (!blog) return null;
@@ -30,7 +31,7 @@ export default function FeaturedBlog({ blog }) {
           </div>
 
           <h2 className="text-2xl sm:text-3xl font-extrabold text-white leading-tight mb-4 hover:text-indigo-200 transition-colors">
-            <Link to={`/blog/${blog.slug}`}>{blog.title}</Link>
+            <Link to={getBlogPath(blog)}>{blog.title}</Link>
           </h2>
 
           <p className="text-gray-500 text-sm sm:text-base line-clamp-3 mb-6 leading-relaxed">
@@ -51,7 +52,7 @@ export default function FeaturedBlog({ blog }) {
           <div className="flex items-center justify-between pt-4 border-t border-gray-800">
             <span className="text-md font-medium text-gray-500">By {blog.author}</span>
             <Link
-              to={`/blog/${blog.slug}`}
+              to={getBlogPath(blog)}
               className="inline-flex items-center px-4 py-2 bg-indigo-600 hover:bg-indigo-500 text-white text-md font-semibold rounded-xl transition-all shadow-lg hover:shadow-indigo-500/25"
             >
               Read Article
