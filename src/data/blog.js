@@ -32131,9 +32131,9 @@ USA: <a href="tel:+1-8886961528" class="text-blue-600 underline">+1-8886961528</
    `,
 
     category: "Travelocity",
-    image: "/images/blog/Passengers_reacting_to_flight_ca…_ca81ddae.jpg",
+    image: " /images/blog/Man_requesting_Aeromexico_ticket…_b4fa065f.jpg",
     author: "Rajshree",
-    date: "3/11, 2026",
+    date: "4/11, 2026",
     readingTime: "5 min read",
     featured: true
   },
