@@ -32955,7 +32955,7 @@ Take into account the rates that have been proposed, the baggage allowances, pay
     <p>If you are planning a family vacation, business travel, school trip, wedding event or group adventure, you don't have to make arranging flights for a number of passengers complicated. Airline Group Booking helps travelers to check for comfortable flights, manage travel arrangements and organize the whole trip.</p>
     <p>Instead of purchasing individual tickets separately, group travelers can explore airline group reservation services designed to simplify the booking process. Let's discover how group booking works, what options are available, and how you can secure a smoother travel experience.</p>
 <p> website:<a href="https://airlinessupport-desk.com/" class="text-blue-600 underline">https://airlinessupport-desk.com/</a></br>
-    Contact Number:<a href="USA:+1-18888434146" class="text-blue-600 underline">+1-18888434146</a><b></b> </p>
+    Contact Number:<a href="USA:+1-18888434146" class="text-blue-600 underline">+1-18888434146</a><b>(USA)</b> </p>
    
   <h2 class="text-2xl font-semibold">What is group booking in airline? </h2>
 <p>What is Airline Group Booking? Airline Group Booking is the service that lets a number of passengers traveling together book their flight under a coordinated booking process. </p>
@@ -33009,7 +33009,7 @@ Take into account the rates that have been proposed, the baggage allowances, pay
 </h2>
 <p> Group booking for various passengers doesn't have to be difficult when properly planned and knowing what Airline Group Booking is all about. In addition, you will be able to look into various possible flight choices and make appropriate passenger arrangements</p>
 <p> website:<a href="https://airlinessupport-desk.com/" class="text-blue-600 underline">https://airlinessupport-desk.com/</a></br>
-    Contact Number:<a href="USA:+1-18888434146" class="text-blue-600 underline">+1-18888434146</a><b></b> </p>
+    Contact Number:<a href="USA:+1-18888434146" class="text-blue-600 underline">+1-18888434146</a><b>(USA)</b> </p>
   <p>Whichever the reason that you need to travel as a group whether it's a vacation, a business event, learning or an adventure, it's time to look at the various options that the airlines offer for groups. </p>
 <p>Don't let difficult arrangements stop you from making your travel dreams come true! Take the first step now!</p>
 
