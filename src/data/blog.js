@@ -36247,7 +36247,7 @@ USA: <a href="tel:+1-8886961528" class="text-blue-600 underline">+1-8886961528</
     category: "Travelocity",
     image: "/images/Soniya/20Nov ITA.png",
     author: "Rajshree",
-    date: "November 19, 2026",
+    date: "November 20, 2026",
     readingTime: "5 min read",
     featured: true
   },
